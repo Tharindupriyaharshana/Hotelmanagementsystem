@@ -102,7 +102,6 @@ public class home extends javax.swing.JFrame {
         jTextField23 = new javax.swing.JTextField();
         jLabel72 = new javax.swing.JLabel();
         jTextField24 = new javax.swing.JTextField();
-        se_air_bdate = new datechooser.beans.DateChooserCombo();
         jButton3 = new javax.swing.JButton();
         jButton10 = new javax.swing.JButton();
         jButton12 = new javax.swing.JButton();
@@ -112,7 +111,6 @@ public class home extends javax.swing.JFrame {
         jLabel80 = new javax.swing.JLabel();
         jTextField29 = new javax.swing.JTextField();
         jLabel81 = new javax.swing.JLabel();
-        dateChooserCombo9 = new datechooser.beans.DateChooserCombo();
         jLabel82 = new javax.swing.JLabel();
         jTextField30 = new javax.swing.JTextField();
         jLabel83 = new javax.swing.JLabel();
@@ -132,7 +130,6 @@ public class home extends javax.swing.JFrame {
         jLabel73 = new javax.swing.JLabel();
         jTextField16 = new javax.swing.JTextField();
         jLabel75 = new javax.swing.JLabel();
-        dateChooserCombo8 = new datechooser.beans.DateChooserCombo();
         jLabel74 = new javax.swing.JLabel();
         jTextField25 = new javax.swing.JTextField();
         jLabel78 = new javax.swing.JLabel();
@@ -152,14 +149,12 @@ public class home extends javax.swing.JFrame {
         jLabel26 = new javax.swing.JLabel();
         jPanel7 = new javax.swing.JPanel();
         jLabel27 = new javax.swing.JLabel();
-        dateChooserCombo1 = new datechooser.beans.DateChooserCombo();
         jLabel28 = new javax.swing.JLabel();
         jLabel29 = new javax.swing.JLabel();
         jLabel30 = new javax.swing.JLabel();
         jSpinner1 = new javax.swing.JSpinner();
         jSpinner2 = new javax.swing.JSpinner();
         btn_bo_checknow = new javax.swing.JButton();
-        dateChooserCombo3 = new datechooser.beans.DateChooserCombo();
         jp_bo_avilable = new javax.swing.JPanel();
         jPanel8 = new javax.swing.JPanel();
         jLabel39 = new javax.swing.JLabel();
@@ -174,7 +169,6 @@ public class home extends javax.swing.JFrame {
         jTextField6 = new javax.swing.JTextField();
         jLabel46 = new javax.swing.JLabel();
         jTextField7 = new javax.swing.JTextField();
-        dateChooserCombo2 = new datechooser.beans.DateChooserCombo();
         jTextField8 = new javax.swing.JTextField();
         jTextField9 = new javax.swing.JTextField();
         jComboBox1 = new javax.swing.JComboBox<>();
@@ -193,8 +187,6 @@ public class home extends javax.swing.JFrame {
         jprepo = new javax.swing.JPanel();
         jLabel48 = new javax.swing.JLabel();
         jPanel11 = new javax.swing.JPanel();
-        dateChooserCombo6 = new datechooser.beans.DateChooserCombo();
-        dateChooserCombo10 = new datechooser.beans.DateChooserCombo();
         jLabel56 = new javax.swing.JLabel();
         jLabel57 = new javax.swing.JLabel();
         jComboBox4 = new javax.swing.JComboBox<>();
@@ -204,8 +196,6 @@ public class home extends javax.swing.JFrame {
         jButton4 = new javax.swing.JButton();
         jPanel21 = new javax.swing.JPanel();
         jPanel22 = new javax.swing.JPanel();
-        dateChooserCombo11 = new datechooser.beans.DateChooserCombo();
-        dateChooserCombo12 = new datechooser.beans.DateChooserCombo();
         jLabel87 = new javax.swing.JLabel();
         jLabel88 = new javax.swing.JLabel();
         jSeparator3 = new javax.swing.JSeparator();
@@ -218,43 +208,41 @@ public class home extends javax.swing.JFrame {
         jLabel55 = new javax.swing.JLabel();
         jPanel10 = new javax.swing.JPanel();
         jLabel51 = new javax.swing.JLabel();
-        dateChooserCombo5 = new datechooser.beans.DateChooserCombo();
         jLabel52 = new javax.swing.JLabel();
-        jTextField4 = new javax.swing.JTextField();
+        rest_price = new javax.swing.JTextField();
         jLabel53 = new javax.swing.JLabel();
         jLabel54 = new javax.swing.JLabel();
-        jTextField12 = new javax.swing.JTextField();
+        rest_itemcode = new javax.swing.JTextField();
         jButton5 = new javax.swing.JButton();
         jScrollPane3 = new javax.swing.JScrollPane();
-        jTable3 = new javax.swing.JTable();
+        rest_add = new javax.swing.JTable();
         jLabel62 = new javax.swing.JLabel();
-        jSpinner3 = new javax.swing.JSpinner();
+        rest_numuni = new javax.swing.JSpinner();
         jLabel63 = new javax.swing.JLabel();
         jLabel64 = new javax.swing.JLabel();
         jLabel65 = new javax.swing.JLabel();
-        jTextField18 = new javax.swing.JTextField();
-        jTextField19 = new javax.swing.JTextField();
+        rest_invonum = new javax.swing.JTextField();
+        rest_itemname = new javax.swing.JTextField();
         jButton8 = new javax.swing.JButton();
         jPanel16 = new javax.swing.JPanel();
         jScrollPane4 = new javax.swing.JScrollPane();
-        jTable4 = new javax.swing.JTable();
+        rest_menu = new javax.swing.JTable();
         jPanel17 = new javax.swing.JPanel();
         jLabel58 = new javax.swing.JLabel();
         jLabel59 = new javax.swing.JLabel();
-        jTextField14 = new javax.swing.JTextField();
-        jTextField17 = new javax.swing.JTextField();
+        rest_eitemcode = new javax.swing.JTextField();
+        rest_eitemname = new javax.swing.JTextField();
         jLabel60 = new javax.swing.JLabel();
-        jTextField20 = new javax.swing.JTextField();
+        rest_eprice = new javax.swing.JTextField();
         jLabel61 = new javax.swing.JLabel();
-        jTextField21 = new javax.swing.JTextField();
+        rest_ecost = new javax.swing.JTextField();
         jButton7 = new javax.swing.JButton();
         jButton9 = new javax.swing.JButton();
         jButton11 = new javax.swing.JButton();
-        jPanel9 = new javax.swing.JPanel();
-        dateChooserCombo4 = new datechooser.beans.DateChooserCombo();
+        rest_bfadd = new javax.swing.JPanel();
         jLabel49 = new javax.swing.JLabel();
         jLabel50 = new javax.swing.JLabel();
-        jTextField3 = new javax.swing.JTextField();
+        rest_cost = new javax.swing.JTextField();
         jButton6 = new javax.swing.JButton();
         jphome = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
@@ -278,15 +266,14 @@ public class home extends javax.swing.JFrame {
         jLabel5 = new javax.swing.JLabel();
         jPanel5 = new javax.swing.JPanel();
         jLabel6 = new javax.swing.JLabel();
-        jTextField1 = new javax.swing.JTextField();
+        home_drate = new javax.swing.JTextField();
         jButton2 = new javax.swing.JButton();
         jSeparator1 = new javax.swing.JSeparator();
         jScrollPane1 = new javax.swing.JScrollPane();
-        jTable1 = new javax.swing.JTable();
+        home_table = new javax.swing.JTable();
         jLabel18 = new javax.swing.JLabel();
         jpseti = new javax.swing.JPanel();
         jPanel6 = new javax.swing.JPanel();
-        dateChooserCombo13 = new datechooser.beans.DateChooserCombo();
         jLabel92 = new javax.swing.JLabel();
         jLabel93 = new javax.swing.JLabel();
         jTextField13 = new javax.swing.JTextField();
@@ -680,2125 +667,1513 @@ public class home extends javax.swing.JFrame {
         jTextField24.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
         jPanel18.add(jTextField24, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 310, 347, 40));
 
-        se_air_bdate.setCurrentView(new datechooser.view.appearance.AppearancesList("Light",
-            new datechooser.view.appearance.ViewAppearance("custom",
-                new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                    new java.awt.Color(0, 0, 0),
-                    new java.awt.Color(0, 0, 255),
-                    false,
-                    true,
-                    new datechooser.view.appearance.swing.ButtonPainter()),
-                new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                    new java.awt.Color(0, 0, 0),
-                    new java.awt.Color(0, 0, 255),
-                    true,
-                    true,
-                    new datechooser.view.appearance.swing.ButtonPainter()),
-                new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                    new java.awt.Color(0, 0, 255),
-                    new java.awt.Color(0, 0, 255),
-                    false,
-                    true,
-                    new datechooser.view.appearance.swing.ButtonPainter()),
-                new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                    new java.awt.Color(128, 128, 128),
-                    new java.awt.Color(0, 0, 255),
-                    false,
-                    true,
-                    new datechooser.view.appearance.swing.LabelPainter()),
-                new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                    new java.awt.Color(0, 0, 0),
-                    new java.awt.Color(0, 0, 255),
-                    false,
-                    true,
-                    new datechooser.view.appearance.swing.LabelPainter()),
-                new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                    new java.awt.Color(0, 0, 0),
-                    new java.awt.Color(255, 0, 0),
-                    false,
-                    false,
-                    new datechooser.view.appearance.swing.ButtonPainter()),
-                (datechooser.view.BackRenderer)null,
-                false,
-                true)));
-    se_air_bdate.setCalendarBackground(new java.awt.Color(255, 255, 255));
-    se_air_bdate.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.BOLD, 18));
-    jPanel18.add(se_air_bdate, new org.netbeans.lib.awtextra.AbsoluteConstraints(142, 127, 347, 39));
+        jButton3.setBackground(new java.awt.Color(46, 204, 113));
+        jButton3.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton3.setText("Find");
+        jButton3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton3ActionPerformed(evt);
+            }
+        });
+        jPanel18.add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(231, 614, 82, 50));
 
-    jButton3.setBackground(new java.awt.Color(46, 204, 113));
-    jButton3.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton3.setText("Find");
-    jButton3.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton3ActionPerformed(evt);
-        }
-    });
-    jPanel18.add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(231, 614, 82, 50));
+        jButton10.setBackground(new java.awt.Color(46, 204, 113));
+        jButton10.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton10.setText("Add");
+        jButton10.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton10ActionPerformed(evt);
+            }
+        });
+        jPanel18.add(jButton10, new org.netbeans.lib.awtextra.AbsoluteConstraints(123, 614, 82, 50));
 
-    jButton10.setBackground(new java.awt.Color(46, 204, 113));
-    jButton10.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton10.setText("Add");
-    jButton10.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton10ActionPerformed(evt);
-        }
-    });
-    jPanel18.add(jButton10, new org.netbeans.lib.awtextra.AbsoluteConstraints(123, 614, 82, 50));
+        jButton12.setBackground(new java.awt.Color(46, 204, 113));
+        jButton12.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton12.setText("Delete");
+        jButton12.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton12ActionPerformed(evt);
+            }
+        });
+        jPanel18.add(jButton12, new org.netbeans.lib.awtextra.AbsoluteConstraints(352, 614, 99, 50));
 
-    jButton12.setBackground(new java.awt.Color(46, 204, 113));
-    jButton12.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton12.setText("Delete");
-    jButton12.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton12ActionPerformed(evt);
-        }
-    });
-    jPanel18.add(jButton12, new org.netbeans.lib.awtextra.AbsoluteConstraints(352, 614, 99, 50));
+        jLabel102.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel102.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel102.setText("Price");
+        jPanel18.add(jLabel102, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 380, -1, -1));
 
-    jLabel102.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel102.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel102.setText("Price");
-    jPanel18.add(jLabel102, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 380, -1, -1));
+        jTextField40.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel18.add(jTextField40, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 370, 347, 40));
 
-    jTextField40.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel18.add(jTextField40, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 370, 347, 40));
+        jpstaf.add(jPanel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(323, 217, 520, 780));
 
-    jpstaf.add(jPanel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(323, 217, 520, 780));
+        jPanel19.setBackground(new java.awt.Color(46, 204, 113));
+        jPanel19.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Tours", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24), new java.awt.Color(255, 255, 255))); // NOI18N
+        jPanel19.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-    jPanel19.setBackground(new java.awt.Color(46, 204, 113));
-    jPanel19.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Tours", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24), new java.awt.Color(255, 255, 255))); // NOI18N
-    jPanel19.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+        jLabel80.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel80.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel80.setText("Booking No");
+        jPanel19.add(jLabel80, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 80, -1, -1));
 
-    jLabel80.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel80.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel80.setText("Booking No");
-    jPanel19.add(jLabel80, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 80, -1, -1));
+        jTextField29.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel19.add(jTextField29, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 70, 320, 40));
 
-    jTextField29.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel19.add(jTextField29, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 70, 320, 40));
+        jLabel81.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel81.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel81.setText("Date");
+        jPanel19.add(jLabel81, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 140, 71, -1));
 
-    jLabel81.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel81.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel81.setText("Date");
-    jPanel19.add(jLabel81, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 140, 71, -1));
+        jLabel82.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel82.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel82.setText("Name");
+        jPanel19.add(jLabel82, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 210, -1, -1));
 
-    dateChooserCombo9.setCurrentView(new datechooser.view.appearance.AppearancesList("Light",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo9.setCalendarBackground(new java.awt.Color(255, 255, 255));
-dateChooserCombo9.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.BOLD, 18));
-jPanel19.add(dateChooserCombo9, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 130, 320, 39));
+        jTextField30.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel19.add(jTextField30, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 200, 320, 40));
 
-jLabel82.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel82.setForeground(new java.awt.Color(255, 255, 255));
-jLabel82.setText("Name");
-jPanel19.add(jLabel82, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 210, -1, -1));
+        jLabel83.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel83.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel83.setText("Driver");
+        jPanel19.add(jLabel83, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 270, -1, -1));
 
-jTextField30.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jPanel19.add(jTextField30, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 200, 320, 40));
+        jTextField31.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel19.add(jTextField31, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 260, 320, 40));
 
-jLabel83.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel83.setForeground(new java.awt.Color(255, 255, 255));
-jLabel83.setText("Driver");
-jPanel19.add(jLabel83, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 270, -1, -1));
+        jLabel84.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel84.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel84.setText("Type");
+        jPanel19.add(jLabel84, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 330, -1, -1));
 
-jTextField31.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jPanel19.add(jTextField31, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 260, 320, 40));
+        jComboBox3.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jComboBox3.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Day Tours", "Boat Tours", "Round Tours", " " }));
+        jPanel19.add(jComboBox3, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 320, 320, 50));
 
-jLabel84.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel84.setForeground(new java.awt.Color(255, 255, 255));
-jLabel84.setText("Type");
-jPanel19.add(jLabel84, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 330, -1, -1));
+        jLabel85.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel85.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel85.setText("Cost");
+        jPanel19.add(jLabel85, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 410, -1, -1));
 
-jComboBox3.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jComboBox3.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Day Tours", "Boat Tours", "Round Tours", " " }));
-jPanel19.add(jComboBox3, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 320, 320, 50));
+        jTextField32.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel19.add(jTextField32, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 400, 320, 40));
 
-jLabel85.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel85.setForeground(new java.awt.Color(255, 255, 255));
-jLabel85.setText("Cost");
-jPanel19.add(jLabel85, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 410, -1, -1));
+        jLabel86.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel86.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel86.setText("Profit");
+        jPanel19.add(jLabel86, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 540, -1, -1));
 
-jTextField32.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jPanel19.add(jTextField32, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 400, 320, 40));
+        jTextField33.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel19.add(jTextField33, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 530, 320, 40));
 
-jLabel86.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel86.setForeground(new java.awt.Color(255, 255, 255));
-jLabel86.setText("Profit");
-jPanel19.add(jLabel86, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 540, -1, -1));
+        jButton16.setBackground(new java.awt.Color(52, 152, 219));
+        jButton16.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton16.setText("Add");
+        jButton16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton16ActionPerformed(evt);
+            }
+        });
+        jPanel19.add(jButton16, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 610, 82, 50));
 
-jTextField33.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jPanel19.add(jTextField33, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 530, 320, 40));
+        jButton17.setBackground(new java.awt.Color(52, 152, 219));
+        jButton17.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton17.setText("Find");
+        jButton17.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton17ActionPerformed(evt);
+            }
+        });
+        jPanel19.add(jButton17, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 610, 82, 50));
 
-jButton16.setBackground(new java.awt.Color(52, 152, 219));
-jButton16.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jButton16.setText("Add");
-jButton16.addActionListener(new java.awt.event.ActionListener() {
-    public void actionPerformed(java.awt.event.ActionEvent evt) {
-        jButton16ActionPerformed(evt);
-    }
-    });
-    jPanel19.add(jButton16, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 610, 82, 50));
+        jButton18.setBackground(new java.awt.Color(52, 152, 219));
+        jButton18.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton18.setText("Delete");
+        jButton18.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton18ActionPerformed(evt);
+            }
+        });
+        jPanel19.add(jButton18, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 610, 99, 50));
 
-    jButton17.setBackground(new java.awt.Color(52, 152, 219));
-    jButton17.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton17.setText("Find");
-    jButton17.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton17ActionPerformed(evt);
-        }
-    });
-    jPanel19.add(jButton17, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 610, 82, 50));
+        jLabel103.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel103.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel103.setText("Price");
+        jPanel19.add(jLabel103, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 480, -1, -1));
 
-    jButton18.setBackground(new java.awt.Color(52, 152, 219));
-    jButton18.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton18.setText("Delete");
-    jButton18.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton18ActionPerformed(evt);
-        }
-    });
-    jPanel19.add(jButton18, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 610, 99, 50));
+        jTextField41.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel19.add(jTextField41, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 470, 320, 40));
 
-    jLabel103.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel103.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel103.setText("Price");
-    jPanel19.add(jLabel103, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 480, -1, -1));
+        jpstaf.add(jPanel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(867, 217, 500, 780));
 
-    jTextField41.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel19.add(jTextField41, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 470, 320, 40));
+        jPanel20.setBackground(new java.awt.Color(52, 73, 94));
+        jPanel20.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Ayuruveda", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24), new java.awt.Color(255, 255, 255))); // NOI18N
+        jPanel20.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-    jpstaf.add(jPanel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(867, 217, 500, 780));
+        jLabel73.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel73.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel73.setText("Booking No");
+        jPanel20.add(jLabel73, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 80, -1, -1));
 
-    jPanel20.setBackground(new java.awt.Color(52, 73, 94));
-    jPanel20.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Ayuruveda", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24), new java.awt.Color(255, 255, 255))); // NOI18N
-    jPanel20.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+        jTextField16.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel20.add(jTextField16, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 70, 320, 40));
 
-    jLabel73.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel73.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel73.setText("Booking No");
-    jPanel20.add(jLabel73, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 80, -1, -1));
+        jLabel75.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel75.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel75.setText("Date");
+        jPanel20.add(jLabel75, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 140, 71, -1));
 
-    jTextField16.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel20.add(jTextField16, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 70, 320, 40));
+        jLabel74.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel74.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel74.setText("Name");
+        jPanel20.add(jLabel74, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 210, -1, -1));
 
-    jLabel75.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel75.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel75.setText("Date");
-    jPanel20.add(jLabel75, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 140, 71, -1));
+        jTextField25.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel20.add(jTextField25, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 200, 320, 40));
 
-    dateChooserCombo8.setCurrentView(new datechooser.view.appearance.AppearancesList("Light",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo8.setCalendarBackground(new java.awt.Color(255, 255, 255));
-dateChooserCombo8.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.BOLD, 18));
-jPanel20.add(dateChooserCombo8, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 130, 320, 39));
+        jLabel78.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel78.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel78.setText("Country");
+        jPanel20.add(jLabel78, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 270, -1, -1));
 
-jLabel74.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel74.setForeground(new java.awt.Color(255, 255, 255));
-jLabel74.setText("Name");
-jPanel20.add(jLabel74, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 210, -1, -1));
+        jTextField26.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel20.add(jTextField26, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 260, 320, 40));
 
-jTextField25.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jPanel20.add(jTextField25, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 200, 320, 40));
+        jLabel77.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel77.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel77.setText("Type");
+        jPanel20.add(jLabel77, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 330, -1, -1));
 
-jLabel78.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel78.setForeground(new java.awt.Color(255, 255, 255));
-jLabel78.setText("Country");
-jPanel20.add(jLabel78, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 270, -1, -1));
+        jComboBox2.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Full Body", "Half Boady", "Head Message", "Foot Message", "Seerodhara", " ", " ", " " }));
+        jPanel20.add(jComboBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 320, 320, 50));
 
-jTextField26.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jPanel20.add(jTextField26, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 260, 320, 40));
+        jLabel79.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel79.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel79.setText("Cost");
+        jPanel20.add(jLabel79, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 410, -1, -1));
 
-jLabel77.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel77.setForeground(new java.awt.Color(255, 255, 255));
-jLabel77.setText("Type");
-jPanel20.add(jLabel77, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 330, -1, -1));
+        jTextField28.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel20.add(jTextField28, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 400, 320, 40));
 
-jComboBox2.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Full Body", "Half Boady", "Head Message", "Foot Message", "Seerodhara", " ", " ", " " }));
-jPanel20.add(jComboBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 320, 320, 50));
+        jLabel76.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel76.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel76.setText("profit");
+        jPanel20.add(jLabel76, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 530, -1, -1));
 
-jLabel79.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel79.setForeground(new java.awt.Color(255, 255, 255));
-jLabel79.setText("Cost");
-jPanel20.add(jLabel79, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 410, -1, -1));
+        jTextField27.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel20.add(jTextField27, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 520, 320, 40));
 
-jTextField28.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jPanel20.add(jTextField28, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 400, 320, 40));
+        jButton15.setBackground(new java.awt.Color(46, 204, 113));
+        jButton15.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton15.setText("Add");
+        jButton15.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton15ActionPerformed(evt);
+            }
+        });
+        jPanel20.add(jButton15, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 610, 82, 50));
 
-jLabel76.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel76.setForeground(new java.awt.Color(255, 255, 255));
-jLabel76.setText("profit");
-jPanel20.add(jLabel76, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 530, -1, -1));
+        jButton14.setBackground(new java.awt.Color(46, 204, 113));
+        jButton14.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton14.setText("Find");
+        jButton14.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton14ActionPerformed(evt);
+            }
+        });
+        jPanel20.add(jButton14, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 610, 82, 50));
 
-jTextField27.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jPanel20.add(jTextField27, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 520, 320, 40));
+        jButton13.setBackground(new java.awt.Color(46, 204, 113));
+        jButton13.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton13.setText("Delete");
+        jButton13.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton13ActionPerformed(evt);
+            }
+        });
+        jPanel20.add(jButton13, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 610, 99, 50));
 
-jButton15.setBackground(new java.awt.Color(46, 204, 113));
-jButton15.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jButton15.setText("Add");
-jButton15.addActionListener(new java.awt.event.ActionListener() {
-    public void actionPerformed(java.awt.event.ActionEvent evt) {
-        jButton15ActionPerformed(evt);
-    }
-    });
-    jPanel20.add(jButton15, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 610, 82, 50));
+        jTextField42.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel20.add(jTextField42, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 460, 320, 40));
 
-    jButton14.setBackground(new java.awt.Color(46, 204, 113));
-    jButton14.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton14.setText("Find");
-    jButton14.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton14ActionPerformed(evt);
-        }
-    });
-    jPanel20.add(jButton14, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 610, 82, 50));
+        jLabel104.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel104.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel104.setText("Price");
+        jPanel20.add(jLabel104, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 480, -1, -1));
 
-    jButton13.setBackground(new java.awt.Color(46, 204, 113));
-    jButton13.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton13.setText("Delete");
-    jButton13.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton13ActionPerformed(evt);
-        }
-    });
-    jPanel20.add(jButton13, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 610, 99, 50));
+        jpstaf.add(jPanel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(1384, 217, 520, 780));
 
-    jTextField42.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel20.add(jTextField42, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 460, 320, 40));
+        getContentPane().add(jpstaf, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2050, 1090));
 
-    jLabel104.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel104.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel104.setText("Price");
-    jPanel20.add(jLabel104, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 480, -1, -1));
+        jpbook.setBackground(new java.awt.Color(255, 255, 255));
+        jpbook.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-    jpstaf.add(jPanel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(1384, 217, 520, 780));
+        jLabel26.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jLabel26.setText("Bookings");
+        jpbook.add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(351, 128, -1, -1));
 
-    getContentPane().add(jpstaf, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2050, 1090));
+        jPanel7.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel7.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Check Avilability", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 0, 24))); // NOI18N
 
-    jpbook.setBackground(new java.awt.Color(255, 255, 255));
-    jpbook.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+        jLabel27.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel27.setText("Check In");
 
-    jLabel26.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jLabel26.setText("Bookings");
-    jpbook.add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(351, 128, -1, -1));
+        jLabel28.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel28.setText("Check Out");
 
-    jPanel7.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel7.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Check Avilability", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 0, 24))); // NOI18N
+        jLabel29.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel29.setText("Child");
 
-    jLabel27.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel27.setText("Check In");
+        jLabel30.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel30.setText("Adult");
 
-    dateChooserCombo1.setCurrentView(new datechooser.view.appearance.AppearancesList("Light",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo1.setCalendarBackground(new java.awt.Color(255, 255, 255));
-dateChooserCombo1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 1));
-dateChooserCombo1.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.PLAIN, 18));
+        jSpinner1.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
 
-jLabel28.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-jLabel28.setText("Check Out");
+        jSpinner2.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
 
-jLabel29.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-jLabel29.setText("Child");
+        btn_bo_checknow.setBackground(new java.awt.Color(236, 240, 241));
+        btn_bo_checknow.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        btn_bo_checknow.setText("Check Now");
+        btn_bo_checknow.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                btn_bo_checknowMouseClicked(evt);
+            }
+            public void mouseEntered(java.awt.event.MouseEvent evt) {
+                btn_bo_checknowMouseEntered(evt);
+            }
+            public void mouseExited(java.awt.event.MouseEvent evt) {
+                btn_bo_checknowMouseExited(evt);
+            }
+        });
+        btn_bo_checknow.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btn_bo_checknowActionPerformed(evt);
+            }
+        });
 
-jLabel30.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-jLabel30.setText("Adult");
-
-jSpinner1.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-
-jSpinner2.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-
-btn_bo_checknow.setBackground(new java.awt.Color(236, 240, 241));
-btn_bo_checknow.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-btn_bo_checknow.setText("Check Now");
-btn_bo_checknow.addMouseListener(new java.awt.event.MouseAdapter() {
-    public void mouseClicked(java.awt.event.MouseEvent evt) {
-        btn_bo_checknowMouseClicked(evt);
-    }
-    public void mouseEntered(java.awt.event.MouseEvent evt) {
-        btn_bo_checknowMouseEntered(evt);
-    }
-    public void mouseExited(java.awt.event.MouseEvent evt) {
-        btn_bo_checknowMouseExited(evt);
-    }
-    });
-    btn_bo_checknow.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            btn_bo_checknowActionPerformed(evt);
-        }
-    });
-
-    dateChooserCombo3.setCurrentView(new datechooser.view.appearance.AppearancesList("Light",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo3.setCalendarBackground(new java.awt.Color(255, 255, 255));
-dateChooserCombo3.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 1));
-dateChooserCombo3.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.PLAIN, 18));
-
-javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
-jPanel7.setLayout(jPanel7Layout);
-jPanel7Layout.setHorizontalGroup(
-    jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-    .addGroup(jPanel7Layout.createSequentialGroup()
-        .addGap(23, 23, 23)
-        .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jLabel30, javax.swing.GroupLayout.PREFERRED_SIZE, 84, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addComponent(jLabel27, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE))
-        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-        .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+        javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
+        jPanel7.setLayout(jPanel7Layout);
+        jPanel7Layout.setHorizontalGroup(
+            jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel7Layout.createSequentialGroup()
+                .addGap(23, 23, 23)
+                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel30, javax.swing.GroupLayout.PREFERRED_SIZE, 84, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel27, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jSpinner2, javax.swing.GroupLayout.PREFERRED_SIZE, 109, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel29, javax.swing.GroupLayout.PREFERRED_SIZE, 64, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jSpinner1))
-            .addComponent(dateChooserCombo1, javax.swing.GroupLayout.PREFERRED_SIZE, 317, javax.swing.GroupLayout.PREFERRED_SIZE))
-        .addGap(44, 44, 44)
-        .addComponent(jLabel28)
-        .addGap(27, 27, 27)
-        .addComponent(btn_bo_checknow, javax.swing.GroupLayout.PREFERRED_SIZE, 164, javax.swing.GroupLayout.PREFERRED_SIZE)
-        .addContainerGap(187, Short.MAX_VALUE))
-    .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel7Layout.createSequentialGroup()
-            .addContainerGap(644, Short.MAX_VALUE)
-            .addComponent(dateChooserCombo3, javax.swing.GroupLayout.PREFERRED_SIZE, 317, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(24, 24, 24)))
-    );
-    jPanel7Layout.setVerticalGroup(
-        jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel7Layout.createSequentialGroup()
-            .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(jPanel7Layout.createSequentialGroup()
-                    .addGap(66, 66, 66)
-                    .addComponent(dateChooserCombo1, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGroup(jPanel7Layout.createSequentialGroup()
-                    .addGap(49, 49, 49)
-                    .addComponent(jLabel28, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGroup(jPanel7Layout.createSequentialGroup()
-                    .addGap(58, 58, 58)
-                    .addComponent(jLabel27, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE)))
-            .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(jPanel7Layout.createSequentialGroup()
-                    .addGap(27, 27, 27)
-                    .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                        .addComponent(jLabel30, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(jSpinner2, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(jLabel29, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(jSpinner1, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addGroup(jPanel7Layout.createSequentialGroup()
-                    .addGap(21, 21, 21)
-                    .addComponent(btn_bo_checknow, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)))
-            .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-        .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jSpinner1, javax.swing.GroupLayout.PREFERRED_SIZE, 120, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(44, 44, 44)
+                .addComponent(jLabel28)
+                .addGap(27, 27, 27)
+                .addComponent(btn_bo_checknow, javax.swing.GroupLayout.PREFERRED_SIZE, 164, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(190, Short.MAX_VALUE))
+        );
+        jPanel7Layout.setVerticalGroup(
+            jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel7Layout.createSequentialGroup()
-                .addGap(76, 76, 76)
-                .addComponent(dateChooserCombo3, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(103, Short.MAX_VALUE)))
-    );
+                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel7Layout.createSequentialGroup()
+                        .addGap(49, 49, 49)
+                        .addComponent(jLabel28, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(jPanel7Layout.createSequentialGroup()
+                        .addGap(58, 58, 58)
+                        .addComponent(jLabel27, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel7Layout.createSequentialGroup()
+                        .addGap(27, 27, 27)
+                        .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(jLabel30, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jSpinner2, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jLabel29, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jSpinner1, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                    .addGroup(jPanel7Layout.createSequentialGroup()
+                        .addGap(21, 21, 21)
+                        .addComponent(btn_bo_checknow, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
 
-    jpbook.add(jPanel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 180, -1, 260));
+        jpbook.add(jPanel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 180, -1, 260));
 
-    jp_bo_avilable.setBackground(new java.awt.Color(255, 255, 255));
-    jp_bo_avilable.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jp_bo_avilable.setBackground(new java.awt.Color(255, 255, 255));
+        jp_bo_avilable.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
-    javax.swing.GroupLayout jp_bo_avilableLayout = new javax.swing.GroupLayout(jp_bo_avilable);
-    jp_bo_avilable.setLayout(jp_bo_avilableLayout);
-    jp_bo_avilableLayout.setHorizontalGroup(
-        jp_bo_avilableLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGap(0, 448, Short.MAX_VALUE)
-    );
-    jp_bo_avilableLayout.setVerticalGroup(
-        jp_bo_avilableLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGap(0, 238, Short.MAX_VALUE)
-    );
+        javax.swing.GroupLayout jp_bo_avilableLayout = new javax.swing.GroupLayout(jp_bo_avilable);
+        jp_bo_avilable.setLayout(jp_bo_avilableLayout);
+        jp_bo_avilableLayout.setHorizontalGroup(
+            jp_bo_avilableLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 448, Short.MAX_VALUE)
+        );
+        jp_bo_avilableLayout.setVerticalGroup(
+            jp_bo_avilableLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 238, Short.MAX_VALUE)
+        );
 
-    jpbook.add(jp_bo_avilable, new org.netbeans.lib.awtextra.AbsoluteConstraints(1420, 190, 450, 240));
+        jpbook.add(jp_bo_avilable, new org.netbeans.lib.awtextra.AbsoluteConstraints(1420, 190, 450, 240));
 
-    jPanel8.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel8.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
-    jPanel8.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+        jPanel8.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel8.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jPanel8.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-    jLabel39.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel39.setText("Price");
-    jPanel8.add(jLabel39, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 320, 103, 61));
+        jLabel39.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel39.setText("Price");
+        jPanel8.add(jLabel39, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 320, 103, 61));
 
-    jLabel40.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel40.setText("First Name");
-    jPanel8.add(jLabel40, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 90, 137, 61));
+        jLabel40.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel40.setText("First Name");
+        jPanel8.add(jLabel40, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 90, 137, 61));
 
-    jLabel41.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel41.setText("Country");
-    jPanel8.add(jLabel41, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 150, 103, 61));
+        jLabel41.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel41.setText("Country");
+        jPanel8.add(jLabel41, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 150, 103, 61));
 
-    jLabel42.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel42.setText("Booking Date");
-    jPanel8.add(jLabel42, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 10, 184, 61));
+        jLabel42.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel42.setText("Booking Date");
+        jPanel8.add(jLabel42, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 10, 184, 61));
 
-    jLabel43.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel43.setText("Discount");
-    jPanel8.add(jLabel43, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 320, 103, 61));
+        jLabel43.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel43.setText("Discount");
+        jPanel8.add(jLabel43, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 320, 103, 61));
 
-    jLabel44.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel44.setText("Email");
-    jPanel8.add(jLabel44, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 160, 131, 61));
+        jLabel44.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel44.setText("Email");
+        jPanel8.add(jLabel44, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 160, 131, 61));
 
-    jTextField2.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField2ActionPerformed(evt);
+        jTextField2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField2ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 100, 310, 42));
+
+        jLabel45.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel45.setText("Last Name");
+        jPanel8.add(jLabel45, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 90, 134, 61));
+
+        jTextField5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField5ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(jTextField5, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 330, 310, 42));
+
+        jTextField6.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField6ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(jTextField6, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 100, 310, 42));
+
+        jLabel46.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel46.setText("Booking ID");
+        jPanel8.add(jLabel46, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, 184, 61));
+
+        jTextField7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField7ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(jTextField7, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 20, 310, 42));
+
+        jTextField8.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField8ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(jTextField8, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 170, 310, 42));
+
+        jTextField9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField9ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(jTextField9, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 170, 310, 42));
+
+        jComboBox1.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+        jPanel8.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 330, 310, 42));
+
+        jLabel47.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel47.setText("Phone");
+        jPanel8.add(jLabel47, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 230, 103, 61));
+
+        jTextField10.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField10ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(jTextField10, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 250, 310, 42));
+
+        btn_bo_find.setBackground(new java.awt.Color(236, 240, 241));
+        btn_bo_find.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        btn_bo_find.setText("Find");
+        btn_bo_find.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                btn_bo_findMouseClicked(evt);
+            }
+            public void mouseEntered(java.awt.event.MouseEvent evt) {
+                btn_bo_findMouseEntered(evt);
+            }
+            public void mouseExited(java.awt.event.MouseEvent evt) {
+                btn_bo_findMouseExited(evt);
+            }
+        });
+        jPanel8.add(btn_bo_find, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, 164, 56));
+
+        btn_bo_booknow.setBackground(new java.awt.Color(236, 240, 241));
+        btn_bo_booknow.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        btn_bo_booknow.setText("Book Now");
+        btn_bo_booknow.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                btn_bo_booknowMouseClicked(evt);
+            }
+            public void mouseEntered(java.awt.event.MouseEvent evt) {
+                btn_bo_booknowMouseEntered(evt);
+            }
+            public void mouseExited(java.awt.event.MouseEvent evt) {
+                btn_bo_booknowMouseExited(evt);
+            }
+        });
+        jPanel8.add(btn_bo_booknow, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 420, 164, 56));
+
+        btn_bo_update.setBackground(new java.awt.Color(236, 240, 241));
+        btn_bo_update.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        btn_bo_update.setText("Print");
+        btn_bo_update.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                btn_bo_updateMouseClicked(evt);
+            }
+            public void mouseEntered(java.awt.event.MouseEvent evt) {
+                btn_bo_updateMouseEntered(evt);
+            }
+            public void mouseExited(java.awt.event.MouseEvent evt) {
+                btn_bo_updateMouseExited(evt);
+            }
+        });
+        btn_bo_update.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btn_bo_updateActionPerformed(evt);
+            }
+        });
+        jPanel8.add(btn_bo_update, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 420, 164, 60));
+
+        btn_bo_cansel.setBackground(new java.awt.Color(236, 240, 241));
+        btn_bo_cansel.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        btn_bo_cansel.setText("Cansel Booking");
+        btn_bo_cansel.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                btn_bo_canselMouseClicked(evt);
+            }
+            public void mouseEntered(java.awt.event.MouseEvent evt) {
+                btn_bo_canselMouseEntered(evt);
+            }
+            public void mouseExited(java.awt.event.MouseEvent evt) {
+                btn_bo_canselMouseExited(evt);
+            }
+        });
+        jPanel8.add(btn_bo_cansel, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 420, 164, 56));
+
+        btn_bo_update1.setBackground(new java.awt.Color(236, 240, 241));
+        btn_bo_update1.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        btn_bo_update1.setText("Update");
+        btn_bo_update1.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                btn_bo_update1MouseClicked(evt);
+            }
+            public void mouseEntered(java.awt.event.MouseEvent evt) {
+                btn_bo_update1MouseEntered(evt);
+            }
+            public void mouseExited(java.awt.event.MouseEvent evt) {
+                btn_bo_update1MouseExited(evt);
+            }
+        });
+        btn_bo_update1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btn_bo_update1ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(btn_bo_update1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 420, 164, 56));
+
+        jLabel101.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel101.setText("Passport NO");
+        jPanel8.add(jLabel101, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 240, 140, 61));
+
+        jTextField39.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField39ActionPerformed(evt);
+            }
+        });
+        jPanel8.add(jTextField39, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 250, 310, 42));
+
+        jpbook.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 500, 1000, 530));
+
+        jp_bo_avilable1.setBackground(new java.awt.Color(255, 255, 255));
+        jp_bo_avilable1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Bookings", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Yu Gothic UI", 1, 18))); // NOI18N
+
+        jTable2.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null}
+            },
+            new String [] {
+                "Name", "country", "check Out", "Income"
+            }
+        ));
+        jScrollPane2.setViewportView(jTable2);
+        if (jTable2.getColumnModel().getColumnCount() > 0) {
+            jTable2.getColumnModel().getColumn(0).setHeaderValue("Name");
+            jTable2.getColumnModel().getColumn(1).setHeaderValue("country");
+            jTable2.getColumnModel().getColumn(2).setHeaderValue("check Out");
+            jTable2.getColumnModel().getColumn(3).setHeaderValue("Income");
         }
-    });
-    jPanel8.add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 100, 310, 42));
 
-    jLabel45.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel45.setText("Last Name");
-    jPanel8.add(jLabel45, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 90, 134, 61));
-
-    jTextField5.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField5ActionPerformed(evt);
-        }
-    });
-    jPanel8.add(jTextField5, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 330, 310, 42));
-
-    jTextField6.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField6ActionPerformed(evt);
-        }
-    });
-    jPanel8.add(jTextField6, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 100, 310, 42));
-
-    jLabel46.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel46.setText("Booking ID");
-    jPanel8.add(jLabel46, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, 184, 61));
-
-    jTextField7.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField7ActionPerformed(evt);
-        }
-    });
-    jPanel8.add(jTextField7, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 20, 310, 42));
-
-    dateChooserCombo2.setCurrentView(new datechooser.view.appearance.AppearancesList("Light",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo2.setCalendarBackground(new java.awt.Color(255, 255, 255));
-dateChooserCombo2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 1));
-dateChooserCombo2.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.PLAIN, 18));
-jPanel8.add(dateChooserCombo2, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 20, 310, 44));
-
-jTextField8.addActionListener(new java.awt.event.ActionListener() {
-    public void actionPerformed(java.awt.event.ActionEvent evt) {
-        jTextField8ActionPerformed(evt);
-    }
-    });
-    jPanel8.add(jTextField8, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 170, 310, 42));
-
-    jTextField9.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField9ActionPerformed(evt);
-        }
-    });
-    jPanel8.add(jTextField9, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 170, 310, 42));
-
-    jComboBox1.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
-    jPanel8.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 330, 310, 42));
-
-    jLabel47.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel47.setText("Phone");
-    jPanel8.add(jLabel47, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 230, 103, 61));
-
-    jTextField10.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField10ActionPerformed(evt);
-        }
-    });
-    jPanel8.add(jTextField10, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 250, 310, 42));
-
-    btn_bo_find.setBackground(new java.awt.Color(236, 240, 241));
-    btn_bo_find.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    btn_bo_find.setText("Find");
-    btn_bo_find.addMouseListener(new java.awt.event.MouseAdapter() {
-        public void mouseClicked(java.awt.event.MouseEvent evt) {
-            btn_bo_findMouseClicked(evt);
-        }
-        public void mouseEntered(java.awt.event.MouseEvent evt) {
-            btn_bo_findMouseEntered(evt);
-        }
-        public void mouseExited(java.awt.event.MouseEvent evt) {
-            btn_bo_findMouseExited(evt);
-        }
-    });
-    jPanel8.add(btn_bo_find, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, 164, 56));
-
-    btn_bo_booknow.setBackground(new java.awt.Color(236, 240, 241));
-    btn_bo_booknow.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    btn_bo_booknow.setText("Book Now");
-    btn_bo_booknow.addMouseListener(new java.awt.event.MouseAdapter() {
-        public void mouseClicked(java.awt.event.MouseEvent evt) {
-            btn_bo_booknowMouseClicked(evt);
-        }
-        public void mouseEntered(java.awt.event.MouseEvent evt) {
-            btn_bo_booknowMouseEntered(evt);
-        }
-        public void mouseExited(java.awt.event.MouseEvent evt) {
-            btn_bo_booknowMouseExited(evt);
-        }
-    });
-    jPanel8.add(btn_bo_booknow, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 420, 164, 56));
-
-    btn_bo_update.setBackground(new java.awt.Color(236, 240, 241));
-    btn_bo_update.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    btn_bo_update.setText("Print");
-    btn_bo_update.addMouseListener(new java.awt.event.MouseAdapter() {
-        public void mouseClicked(java.awt.event.MouseEvent evt) {
-            btn_bo_updateMouseClicked(evt);
-        }
-        public void mouseEntered(java.awt.event.MouseEvent evt) {
-            btn_bo_updateMouseEntered(evt);
-        }
-        public void mouseExited(java.awt.event.MouseEvent evt) {
-            btn_bo_updateMouseExited(evt);
-        }
-    });
-    btn_bo_update.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            btn_bo_updateActionPerformed(evt);
-        }
-    });
-    jPanel8.add(btn_bo_update, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 420, 164, 60));
-
-    btn_bo_cansel.setBackground(new java.awt.Color(236, 240, 241));
-    btn_bo_cansel.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    btn_bo_cansel.setText("Cansel Booking");
-    btn_bo_cansel.addMouseListener(new java.awt.event.MouseAdapter() {
-        public void mouseClicked(java.awt.event.MouseEvent evt) {
-            btn_bo_canselMouseClicked(evt);
-        }
-        public void mouseEntered(java.awt.event.MouseEvent evt) {
-            btn_bo_canselMouseEntered(evt);
-        }
-        public void mouseExited(java.awt.event.MouseEvent evt) {
-            btn_bo_canselMouseExited(evt);
-        }
-    });
-    jPanel8.add(btn_bo_cansel, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 420, 164, 56));
-
-    btn_bo_update1.setBackground(new java.awt.Color(236, 240, 241));
-    btn_bo_update1.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    btn_bo_update1.setText("Update");
-    btn_bo_update1.addMouseListener(new java.awt.event.MouseAdapter() {
-        public void mouseClicked(java.awt.event.MouseEvent evt) {
-            btn_bo_update1MouseClicked(evt);
-        }
-        public void mouseEntered(java.awt.event.MouseEvent evt) {
-            btn_bo_update1MouseEntered(evt);
-        }
-        public void mouseExited(java.awt.event.MouseEvent evt) {
-            btn_bo_update1MouseExited(evt);
-        }
-    });
-    btn_bo_update1.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            btn_bo_update1ActionPerformed(evt);
-        }
-    });
-    jPanel8.add(btn_bo_update1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 420, 164, 56));
-
-    jLabel101.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel101.setText("Passport NO");
-    jPanel8.add(jLabel101, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 240, 140, 61));
-
-    jTextField39.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField39ActionPerformed(evt);
-        }
-    });
-    jPanel8.add(jTextField39, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 250, 310, 42));
-
-    jpbook.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 500, 1000, 530));
-
-    jp_bo_avilable1.setBackground(new java.awt.Color(255, 255, 255));
-    jp_bo_avilable1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Bookings", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Yu Gothic UI", 1, 18))); // NOI18N
-
-    jTable2.setModel(new javax.swing.table.DefaultTableModel(
-        new Object [][] {
-            {null, null, null, null},
-            {null, null, null, null},
-            {null, null, null, null},
-            {null, null, null, null}
-        },
-        new String [] {
-            "Name", "country", "check Out", "Income"
-        }
-    ));
-    jScrollPane2.setViewportView(jTable2);
-    if (jTable2.getColumnModel().getColumnCount() > 0) {
-        jTable2.getColumnModel().getColumn(0).setHeaderValue("Name");
-        jTable2.getColumnModel().getColumn(1).setHeaderValue("country");
-        jTable2.getColumnModel().getColumn(2).setHeaderValue("check Out");
-        jTable2.getColumnModel().getColumn(3).setHeaderValue("Income");
-    }
-
-    javax.swing.GroupLayout jp_bo_avilable1Layout = new javax.swing.GroupLayout(jp_bo_avilable1);
-    jp_bo_avilable1.setLayout(jp_bo_avilable1Layout);
-    jp_bo_avilable1Layout.setHorizontalGroup(
-        jp_bo_avilable1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jp_bo_avilable1Layout.createSequentialGroup()
-            .addGap(0, 0, Short.MAX_VALUE)
-            .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-    );
-    jp_bo_avilable1Layout.setVerticalGroup(
-        jp_bo_avilable1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jp_bo_avilable1Layout.createSequentialGroup()
-            .addContainerGap()
-            .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 474, Short.MAX_VALUE)
-            .addContainerGap())
-    );
-
-    jpbook.add(jp_bo_avilable1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1420, 490, -1, 540));
-
-    getContentPane().add(jpbook, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2050, 1080));
-
-    jprepo.setBackground(new java.awt.Color(255, 255, 255));
-    jprepo.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-    jLabel48.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jLabel48.setText("Reports ");
-    jprepo.add(jLabel48, new org.netbeans.lib.awtextra.AbsoluteConstraints(324, 116, -1, -1));
-
-    jPanel11.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel11.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Custom Report", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
-
-    dateChooserCombo6.setCurrentView(new datechooser.view.appearance.AppearancesList("Grey",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo6.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.BOLD, 20));
-
-dateChooserCombo10.setCurrentView(new datechooser.view.appearance.AppearancesList("Grey",
-    new datechooser.view.appearance.ViewAppearance("custom",
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 0),
-            new java.awt.Color(0, 0, 255),
-            false,
-            true,
-            new datechooser.view.appearance.swing.ButtonPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 0),
-            new java.awt.Color(0, 0, 255),
-            true,
-            true,
-            new datechooser.view.appearance.swing.ButtonPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 255),
-            new java.awt.Color(0, 0, 255),
-            false,
-            true,
-            new datechooser.view.appearance.swing.ButtonPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(128, 128, 128),
-            new java.awt.Color(0, 0, 255),
-            false,
-            true,
-            new datechooser.view.appearance.swing.LabelPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 0),
-            new java.awt.Color(0, 0, 255),
-            false,
-            true,
-            new datechooser.view.appearance.swing.LabelPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 0),
-            new java.awt.Color(255, 0, 0),
-            false,
-            false,
-            new datechooser.view.appearance.swing.ButtonPainter()),
-        (datechooser.view.BackRenderer)null,
-        false,
-        true)));
-dateChooserCombo10.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.BOLD, 19));
-
-jLabel56.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jLabel56.setText("From");
-
-jLabel57.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jLabel57.setText("To");
-
-jComboBox4.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jComboBox4.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Airport Shutle", "Tours", "Ayuruveda", "Resturant" }));
-
-jTable5.setModel(new javax.swing.table.DefaultTableModel(
-new Object [][] {
-    {null, null, null, null},
-    {null, null, null, null},
-    {null, null, null, null},
-    {null, null, null, null}
-    },
-    new String [] {
-        "Title 1", "Title 2", "Title 3", "Title 4"
-    }
-    ));
-    jScrollPane5.setViewportView(jTable5);
-
-    jButton4.setBackground(new java.awt.Color(241, 196, 15));
-    jButton4.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton4.setText("Show");
-
-    javax.swing.GroupLayout jPanel11Layout = new javax.swing.GroupLayout(jPanel11);
-    jPanel11.setLayout(jPanel11Layout);
-    jPanel11Layout.setHorizontalGroup(
-        jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jSeparator2)
-        .addComponent(jScrollPane5)
-        .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel11Layout.createSequentialGroup()
-            .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(jPanel11Layout.createSequentialGroup()
-                    .addGap(25, 25, 25)
-                    .addComponent(jLabel56)
-                    .addGap(18, 18, 18)
-                    .addComponent(dateChooserCombo6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 79, Short.MAX_VALUE)
-                    .addComponent(jLabel57)
-                    .addGap(43, 43, 43))
-                .addGroup(jPanel11Layout.createSequentialGroup()
-                    .addContainerGap()
-                    .addComponent(jComboBox4, javax.swing.GroupLayout.PREFERRED_SIZE, 226, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
-            .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addComponent(dateChooserCombo10, javax.swing.GroupLayout.PREFERRED_SIZE, 201, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE))
-            .addContainerGap())
-    );
-    jPanel11Layout.setVerticalGroup(
-        jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel11Layout.createSequentialGroup()
-            .addGap(45, 45, 45)
-            .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                .addComponent(jLabel57)
-                .addComponent(jLabel56)
-                .addComponent(dateChooserCombo10, javax.swing.GroupLayout.DEFAULT_SIZE, 38, Short.MAX_VALUE)
-                .addComponent(dateChooserCombo6, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addGap(24, 24, 24)
-            .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                .addComponent(jComboBox4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
-            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-            .addComponent(jSeparator2, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-            .addComponent(jScrollPane5, javax.swing.GroupLayout.DEFAULT_SIZE, 644, Short.MAX_VALUE))
-    );
-
-    jprepo.add(jPanel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 160, -1, 860));
-
-    jPanel21.setBackground(new java.awt.Color(255, 255, 255));
-
-    jPanel22.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel22.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Income", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
-
-    dateChooserCombo11.setCurrentView(new datechooser.view.appearance.AppearancesList("Grey",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo11.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.BOLD, 20));
-
-dateChooserCombo12.setCurrentView(new datechooser.view.appearance.AppearancesList("Grey",
-    new datechooser.view.appearance.ViewAppearance("custom",
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 0),
-            new java.awt.Color(0, 0, 255),
-            false,
-            true,
-            new datechooser.view.appearance.swing.ButtonPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 0),
-            new java.awt.Color(0, 0, 255),
-            true,
-            true,
-            new datechooser.view.appearance.swing.ButtonPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 255),
-            new java.awt.Color(0, 0, 255),
-            false,
-            true,
-            new datechooser.view.appearance.swing.ButtonPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(128, 128, 128),
-            new java.awt.Color(0, 0, 255),
-            false,
-            true,
-            new datechooser.view.appearance.swing.LabelPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 0),
-            new java.awt.Color(0, 0, 255),
-            false,
-            true,
-            new datechooser.view.appearance.swing.LabelPainter()),
-        new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-            new java.awt.Color(0, 0, 0),
-            new java.awt.Color(255, 0, 0),
-            false,
-            false,
-            new datechooser.view.appearance.swing.ButtonPainter()),
-        (datechooser.view.BackRenderer)null,
-        false,
-        true)));
-dateChooserCombo12.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.BOLD, 19));
-
-jLabel87.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jLabel87.setText("From");
-
-jLabel88.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jLabel88.setText("To");
-
-jTable6.setModel(new javax.swing.table.DefaultTableModel(
-new Object [][] {
-    {null, null, null, null},
-    {null, null, null, null},
-    {null, null, null, null},
-    {null, null, null, null}
-    },
-    new String [] {
-        "Title 1", "Title 2", "Title 3", "Title 4"
-    }
-    ));
-    jScrollPane6.setViewportView(jTable6);
-
-    jButton19.setBackground(new java.awt.Color(155, 89, 182));
-    jButton19.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton19.setText("Show");
-
-    jLabel89.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jLabel89.setForeground(new java.awt.Color(192, 57, 43));
-    jLabel89.setText("INCOME is Rs.54390.00");
-
-    javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
-    jPanel22.setLayout(jPanel22Layout);
-    jPanel22Layout.setHorizontalGroup(
-        jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jSeparator3)
-        .addComponent(jScrollPane6)
-        .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel22Layout.createSequentialGroup()
-            .addGap(25, 25, 25)
-            .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(jPanel22Layout.createSequentialGroup()
-                    .addComponent(jLabel87)
-                    .addGap(18, 18, 18)
-                    .addComponent(dateChooserCombo11, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel88))
-                .addComponent(jLabel89, javax.swing.GroupLayout.DEFAULT_SIZE, 352, Short.MAX_VALUE))
-            .addGap(43, 43, 43)
-            .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addComponent(dateChooserCombo12, javax.swing.GroupLayout.PREFERRED_SIZE, 201, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addComponent(jButton19, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE))
-            .addContainerGap())
-    );
-    jPanel22Layout.setVerticalGroup(
-        jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel22Layout.createSequentialGroup()
-            .addGap(45, 45, 45)
-            .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                .addComponent(jLabel88)
-                .addComponent(jLabel87)
-                .addComponent(dateChooserCombo12, javax.swing.GroupLayout.DEFAULT_SIZE, 38, Short.MAX_VALUE)
-                .addComponent(dateChooserCombo11, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                .addGroup(jPanel22Layout.createSequentialGroup()
-                    .addGap(24, 24, 24)
-                    .addComponent(jButton19, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGroup(jPanel22Layout.createSequentialGroup()
-                    .addGap(18, 18, 18)
-                    .addComponent(jLabel89, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
-            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-            .addComponent(jSeparator3, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-            .addComponent(jScrollPane6, javax.swing.GroupLayout.DEFAULT_SIZE, 626, Short.MAX_VALUE))
-    );
-
-    javax.swing.GroupLayout jPanel21Layout = new javax.swing.GroupLayout(jPanel21);
-    jPanel21.setLayout(jPanel21Layout);
-    jPanel21Layout.setHorizontalGroup(
-        jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGap(0, 700, Short.MAX_VALUE)
-        .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel21Layout.createSequentialGroup()
-                .addContainerGap(22, Short.MAX_VALUE)
-                .addComponent(jPanel22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(30, Short.MAX_VALUE)))
-    );
-    jPanel21Layout.setVerticalGroup(
-        jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGap(0, 842, Short.MAX_VALUE)
-        .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel21Layout.createSequentialGroup()
-                .addComponent(jPanel22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE)))
-    );
-
-    jprepo.add(jPanel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(1040, 170, 700, 840));
-
-    getContentPane().add(jprepo, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2040, 1090));
-
-    jpres.setBackground(new java.awt.Color(255, 255, 255));
-    jpres.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-    jpres1.setBackground(new java.awt.Color(255, 255, 255));
-    jpres1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-    jLabel55.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jLabel55.setText("Resturant Management");
-    jpres1.add(jLabel55, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 100, 275, 56));
-
-    jPanel10.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel10.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Billing", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
-    jPanel10.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-    jLabel51.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel51.setText("Date");
-    jPanel10.add(jLabel51, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 90, -1, -1));
-
-    dateChooserCombo5.setCurrentView(new datechooser.view.appearance.AppearancesList("Light",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo5.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.PLAIN, 24));
-jPanel10.add(dateChooserCombo5, new org.netbeans.lib.awtextra.AbsoluteConstraints(91, 93, 209, 40));
-
-jLabel52.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-jLabel52.setText("Invoice Number");
-jPanel10.add(jLabel52, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 85, -1, -1));
-
-jTextField4.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-jTextField4.addActionListener(new java.awt.event.ActionListener() {
-    public void actionPerformed(java.awt.event.ActionEvent evt) {
-        jTextField4ActionPerformed(evt);
-    }
-    });
-    jPanel10.add(jTextField4, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 230, 130, -1));
-
-    jLabel53.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel53.setText("Item Code");
-    jPanel10.add(jLabel53, new org.netbeans.lib.awtextra.AbsoluteConstraints(21, 173, -1, -1));
-
-    jLabel54.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel54.setText("Item Name");
-    jPanel10.add(jLabel54, new org.netbeans.lib.awtextra.AbsoluteConstraints(21, 225, -1, -1));
-
-    jTextField12.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jTextField12.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField12ActionPerformed(evt);
-        }
-    });
-    jPanel10.add(jTextField12, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 170, 310, -1));
-
-    jButton5.setBackground(new java.awt.Color(39, 174, 96));
-    jButton5.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jButton5.setText("Print Invoice");
-    jButton5.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton5ActionPerformed(evt);
-        }
-    });
-    jPanel10.add(jButton5, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 590, 180, -1));
-
-    jTable3.setModel(new javax.swing.table.DefaultTableModel(
-        new Object [][] {
-            {null, null, null, null, null},
-            {null, null, null, null, null},
-            {null, null, null, null, null},
-            {null, null, null, null, null}
-        },
-        new String [] {
-            "Date", "Item Code", "Item Name", "Unit", "Price"
-        }
-    ));
-    jScrollPane3.setViewportView(jTable3);
-
-    jPanel10.add(jScrollPane3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 340, 738, 190));
-
-    jLabel62.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel62.setText("Price Rs.");
-    jPanel10.add(jLabel62, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 230, 120, -1));
-    jPanel10.add(jSpinner3, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 170, 80, -1));
-
-    jLabel63.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel63.setText("No.Of Unit");
-    jPanel10.add(jLabel63, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 170, -1, -1));
-
-    jLabel64.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel64.setText("No.Of Unit");
-    jPanel10.add(jLabel64, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 170, -1, -1));
-
-    jLabel65.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel65.setText("No.Of Unit");
-    jPanel10.add(jLabel65, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 170, -1, -1));
-
-    jTextField18.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jTextField18.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField18ActionPerformed(evt);
-        }
-    });
-    jPanel10.add(jTextField18, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 90, 210, -1));
-
-    jTextField19.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jTextField19.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField19ActionPerformed(evt);
-        }
-    });
-    jPanel10.add(jTextField19, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 230, 310, -1));
-
-    jButton8.setBackground(new java.awt.Color(39, 174, 96));
-    jButton8.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jButton8.setText("ADD");
-    jButton8.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton8ActionPerformed(evt);
-        }
-    });
-    jPanel10.add(jButton8, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 280, -1, -1));
-
-    jpres1.add(jPanel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 340, 760, 710));
-
-    jPanel16.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel16.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Resturant Menue", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
-
-    jTable4.setModel(new javax.swing.table.DefaultTableModel(
-        new Object [][] {
-            {null, null, null, null},
-            {null, null, null, null},
-            {null, null, null, null},
-            {null, null, null, null}
-        },
-        new String [] {
-            "Item Code", "Item Name", "Cost", "Price"
-        }
-    ));
-    jScrollPane4.setViewportView(jTable4);
-
-    javax.swing.GroupLayout jPanel16Layout = new javax.swing.GroupLayout(jPanel16);
-    jPanel16.setLayout(jPanel16Layout);
-    jPanel16Layout.setHorizontalGroup(
-        jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jScrollPane4, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 688, Short.MAX_VALUE)
-    );
-    jPanel16Layout.setVerticalGroup(
-        jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel16Layout.createSequentialGroup()
-            .addComponent(jScrollPane4, javax.swing.GroupLayout.DEFAULT_SIZE, 473, Short.MAX_VALUE)
-            .addContainerGap())
-    );
-
-    jpres1.add(jPanel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1170, 190, 700, 530));
-
-    jPanel17.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel17.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Edit Menue", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
-    jPanel17.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-    jLabel58.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel58.setText("Item Code");
-    jPanel17.add(jLabel58, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 50, -1, -1));
-
-    jLabel59.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel59.setText("Item Name");
-    jPanel17.add(jLabel59, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 110, -1, -1));
-
-    jTextField14.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jTextField14.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField14ActionPerformed(evt);
-        }
-    });
-    jPanel17.add(jTextField14, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 60, 310, -1));
-
-    jTextField17.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jTextField17.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField17ActionPerformed(evt);
-        }
-    });
-    jPanel17.add(jTextField17, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 110, 310, -1));
-
-    jLabel60.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel60.setText("Cost");
-    jPanel17.add(jLabel60, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 160, -1, -1));
-
-    jTextField20.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jTextField20.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField20ActionPerformed(evt);
-        }
-    });
-    jPanel17.add(jTextField20, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 210, 310, -1));
-
-    jLabel61.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
-    jLabel61.setText("Price");
-    jPanel17.add(jLabel61, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 210, -1, -1));
-
-    jTextField21.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jTextField21.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField21ActionPerformed(evt);
-        }
-    });
-    jPanel17.add(jTextField21, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 160, 310, -1));
-
-    jButton7.setBackground(new java.awt.Color(39, 174, 96));
-    jButton7.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jButton7.setText("Add");
-    jButton7.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton7ActionPerformed(evt);
-        }
-    });
-    jPanel17.add(jButton7, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 60, 110, -1));
-
-    jButton9.setBackground(new java.awt.Color(39, 174, 96));
-    jButton9.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jButton9.setText("Delete");
-    jButton9.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton9ActionPerformed(evt);
-        }
-    });
-    jPanel17.add(jButton9, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 200, 120, -1));
-
-    jButton11.setBackground(new java.awt.Color(39, 174, 96));
-    jButton11.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jButton11.setText("Update");
-    jButton11.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton11ActionPerformed(evt);
-        }
-    });
-    jPanel17.add(jButton11, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 130, -1, -1));
-
-    jpres1.add(jPanel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(1170, 730, 700, 310));
-
-    jPanel9.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel9.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "BreakFast Cost", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
-
-    dateChooserCombo4.setCurrentView(new datechooser.view.appearance.AppearancesList("Light",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo4.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.PLAIN, 18));
-
-jLabel49.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-jLabel49.setText("Date");
-
-jLabel50.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-jLabel50.setText("Cost  Rs.");
-
-jTextField3.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-jTextField3.addActionListener(new java.awt.event.ActionListener() {
-    public void actionPerformed(java.awt.event.ActionEvent evt) {
-        jTextField3ActionPerformed(evt);
-    }
-    });
-
-    jButton6.setBackground(new java.awt.Color(39, 174, 96));
-    jButton6.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
-    jButton6.setText("ADD");
-    jButton6.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton6ActionPerformed(evt);
-        }
-    });
-
-    javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
-    jPanel9.setLayout(jPanel9Layout);
-    jPanel9Layout.setHorizontalGroup(
-        jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel9Layout.createSequentialGroup()
-            .addGap(26, 26, 26)
-            .addComponent(jLabel49)
-            .addGap(37, 37, 37)
-            .addComponent(dateChooserCombo4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(43, 43, 43)
-            .addComponent(jLabel50)
-            .addGap(29, 29, 29)
-            .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 180, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(37, 37, 37)
-            .addComponent(jButton6)
-            .addContainerGap(49, Short.MAX_VALUE))
-    );
-    jPanel9Layout.setVerticalGroup(
-        jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel9Layout.createSequentialGroup()
-            .addGap(24, 24, 24)
-            .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel50)
-                    .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jButton6))
-                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jLabel49)
-                    .addComponent(dateChooserCombo4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-            .addContainerGap(44, Short.MAX_VALUE))
-    );
-
-    jpres1.add(jPanel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 190, -1, -1));
-
-    jpres.add(jpres1, new org.netbeans.lib.awtextra.AbsoluteConstraints(-10, 20, 2160, 1080));
-
-    getContentPane().add(jpres, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2050, 1080));
-
-    jphome.setBackground(new java.awt.Color(255, 255, 255));
-    jphome.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-    jLabel2.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 36)); // NOI18N
-    jLabel2.setText("Dashboard");
-    jphome.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-
-    jPanel12.setBackground(new java.awt.Color(155, 89, 182));
-
-    jPanel13.setBackground(new java.awt.Color(52, 73, 94));
-
-    jLabel25.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/GUEST.jpg"))); // NOI18N
-
-    javax.swing.GroupLayout jPanel14Layout = new javax.swing.GroupLayout(jPanel14);
-    jPanel14.setLayout(jPanel14Layout);
-    jPanel14Layout.setHorizontalGroup(
-        jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jLabel25, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-    );
-    jPanel14Layout.setVerticalGroup(
-        jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jLabel25, javax.swing.GroupLayout.DEFAULT_SIZE, 309, Short.MAX_VALUE)
-    );
-
-    jLabel35.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
-    jLabel35.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel35.setText("This Week Income");
-
-    jLabel37.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
-    jLabel37.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel37.setText("$120");
-
-    javax.swing.GroupLayout jPanel13Layout = new javax.swing.GroupLayout(jPanel13);
-    jPanel13.setLayout(jPanel13Layout);
-    jPanel13Layout.setHorizontalGroup(
-        jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jPanel14, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel13Layout.createSequentialGroup()
-                .addGap(43, 43, 43)
-                .addComponent(jLabel35)
-                .addContainerGap(281, Short.MAX_VALUE)))
-        .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel13Layout.createSequentialGroup()
-                .addContainerGap(355, Short.MAX_VALUE)
-                .addComponent(jLabel37)
-                .addGap(97, 97, 97)))
-    );
-    jPanel13Layout.setVerticalGroup(
-        jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel13Layout.createSequentialGroup()
-            .addComponent(jPanel14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(63, 63, 63))
-        .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel13Layout.createSequentialGroup()
-                .addContainerGap(329, Short.MAX_VALUE)
-                .addComponent(jLabel35)
-                .addContainerGap()))
-        .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel13Layout.createSequentialGroup()
-                .addContainerGap(335, Short.MAX_VALUE)
-                .addComponent(jLabel37)
-                .addGap(10, 10, 10)))
-    );
-
-    jLabel33.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
-    jLabel33.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel33.setText("01");
-
-    jLabel36.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
-    jLabel36.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel36.setText("Today Arival");
-
-    javax.swing.GroupLayout jPanel12Layout = new javax.swing.GroupLayout(jPanel12);
-    jPanel12.setLayout(jPanel12Layout);
-    jPanel12Layout.setHorizontalGroup(
-        jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jPanel13, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel12Layout.createSequentialGroup()
-            .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jLabel33, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(95, 95, 95))
-        .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel12Layout.createSequentialGroup()
+        javax.swing.GroupLayout jp_bo_avilable1Layout = new javax.swing.GroupLayout(jp_bo_avilable1);
+        jp_bo_avilable1.setLayout(jp_bo_avilable1Layout);
+        jp_bo_avilable1Layout.setHorizontalGroup(
+            jp_bo_avilable1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jp_bo_avilable1Layout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+        );
+        jp_bo_avilable1Layout.setVerticalGroup(
+            jp_bo_avilable1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jp_bo_avilable1Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 474, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jpbook.add(jp_bo_avilable1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1420, 490, -1, 540));
+
+        getContentPane().add(jpbook, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2050, 1080));
+
+        jprepo.setBackground(new java.awt.Color(255, 255, 255));
+        jprepo.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel48.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jLabel48.setText("Reports ");
+        jprepo.add(jLabel48, new org.netbeans.lib.awtextra.AbsoluteConstraints(324, 116, -1, -1));
+
+        jPanel11.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel11.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Custom Report", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
+
+        jLabel56.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jLabel56.setText("From");
+
+        jLabel57.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jLabel57.setText("To");
+
+        jComboBox4.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jComboBox4.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Airport Shutle", "Tours", "Ayuruveda", "Resturant" }));
+
+        jTable5.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null}
+            },
+            new String [] {
+                "Title 1", "Title 2", "Title 3", "Title 4"
+            }
+        ));
+        jScrollPane5.setViewportView(jTable5);
+
+        jButton4.setBackground(new java.awt.Color(241, 196, 15));
+        jButton4.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton4.setText("Show");
+
+        javax.swing.GroupLayout jPanel11Layout = new javax.swing.GroupLayout(jPanel11);
+        jPanel11.setLayout(jPanel11Layout);
+        jPanel11Layout.setHorizontalGroup(
+            jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jSeparator2)
+            .addComponent(jScrollPane5)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel11Layout.createSequentialGroup()
+                .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel11Layout.createSequentialGroup()
+                        .addGap(25, 25, 25)
+                        .addComponent(jLabel56)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jLabel57)
+                        .addGap(43, 43, 43))
+                    .addGroup(jPanel11Layout.createSequentialGroup()
+                        .addContainerGap()
+                        .addComponent(jComboBox4, javax.swing.GroupLayout.PREFERRED_SIZE, 226, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 29, Short.MAX_VALUE)))
+                .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(107, 107, 107))
+        );
+        jPanel11Layout.setVerticalGroup(
+            jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel11Layout.createSequentialGroup()
                 .addGap(45, 45, 45)
-                .addComponent(jLabel36)
-                .addContainerGap(337, Short.MAX_VALUE)))
-    );
-    jPanel12Layout.setVerticalGroup(
-        jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel12Layout.createSequentialGroup()
-            .addComponent(jPanel13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-            .addComponent(jLabel33)
-            .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-        .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel12Layout.createSequentialGroup()
-                .addContainerGap(371, Short.MAX_VALUE)
-                .addComponent(jLabel36)
-                .addGap(26, 26, 26)))
-    );
+                .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel57)
+                    .addComponent(jLabel56))
+                .addGap(37, 37, 37)
+                .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jComboBox4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jSeparator2, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jScrollPane5, javax.swing.GroupLayout.DEFAULT_SIZE, 648, Short.MAX_VALUE))
+        );
 
-    jphome.add(jPanel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(41, 90, -1, -1));
+        jprepo.add(jPanel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 160, -1, 860));
 
-    jPanel15.setBackground(new java.awt.Color(39, 174, 96));
+        jPanel21.setBackground(new java.awt.Color(255, 255, 255));
 
-    jPanel3.setBackground(new java.awt.Color(26, 188, 156));
+        jPanel22.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel22.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Income", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
 
-    jPanel4.setPreferredSize(new java.awt.Dimension(493, 303));
+        jLabel87.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jLabel87.setText("From");
 
-    jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/VIL.jpg"))); // NOI18N
+        jLabel88.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jLabel88.setText("To");
 
-    javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
-    jPanel4.setLayout(jPanel4Layout);
-    jPanel4Layout.setHorizontalGroup(
-        jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jLabel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-    );
-    jPanel4Layout.setVerticalGroup(
-        jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addComponent(jLabel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-    );
+        jTable6.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null}
+            },
+            new String [] {
+                "Title 1", "Title 2", "Title 3", "Title 4"
+            }
+        ));
+        jScrollPane6.setViewportView(jTable6);
 
-    jLabel32.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
-    jLabel32.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel32.setText("This Week Income");
+        jButton19.setBackground(new java.awt.Color(155, 89, 182));
+        jButton19.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton19.setText("Show");
 
-    jLabel31.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
-    jLabel31.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel31.setText("$120");
+        jLabel89.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jLabel89.setForeground(new java.awt.Color(192, 57, 43));
+        jLabel89.setText("INCOME is Rs.54390.00");
 
-    javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
-    jPanel3.setLayout(jPanel3Layout);
-    jPanel3Layout.setHorizontalGroup(
-        jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel3Layout.createSequentialGroup()
-            .addGap(34, 34, 34)
-            .addComponent(jLabel32)
-            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jLabel31)
-            .addGap(124, 124, 124))
-        .addComponent(jPanel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-    );
-    jPanel3Layout.setVerticalGroup(
-        jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel3Layout.createSequentialGroup()
-            .addComponent(jPanel4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(18, 18, Short.MAX_VALUE)
-            .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                .addComponent(jLabel32)
-                .addComponent(jLabel31))
-            .addContainerGap())
-    );
-
-    jLabel34.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
-    jLabel34.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel34.setText("Today Arival");
-
-    jLabel38.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
-    jLabel38.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel38.setText("01");
-
-    javax.swing.GroupLayout jPanel15Layout = new javax.swing.GroupLayout(jPanel15);
-    jPanel15.setLayout(jPanel15Layout);
-    jPanel15Layout.setHorizontalGroup(
-        jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel15Layout.createSequentialGroup()
-            .addGap(35, 35, 35)
-            .addComponent(jLabel34)
-            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addComponent(jLabel38, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(121, 121, 121))
-        .addGroup(jPanel15Layout.createSequentialGroup()
-            .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(0, 0, Short.MAX_VALUE))
-    );
-    jPanel15Layout.setVerticalGroup(
-        jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel15Layout.createSequentialGroup()
-            .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-            .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(jPanel15Layout.createSequentialGroup()
-                    .addComponent(jLabel34)
-                    .addGap(0, 0, Short.MAX_VALUE))
-                .addGroup(jPanel15Layout.createSequentialGroup()
-                    .addComponent(jLabel38)
-                    .addContainerGap())))
-    );
-
-    jphome.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 570, 490, 400));
-
-    jLabel4.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 18)); // NOI18N
-    jLabel4.setText("Kurulu Garden Couple Villa");
-    jphome.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 530, -1, -1));
-
-    jLabel5.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 18)); // NOI18N
-    jLabel5.setText("Kurulu Garden Guest House");
-    jphome.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 60, -1, -1));
-
-    jPanel5.setBackground(new java.awt.Color(44, 62, 80));
-    jPanel5.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
-
-    jLabel6.setFont(new java.awt.Font("Yu Gothic UI Light", 1, 20)); // NOI18N
-    jLabel6.setForeground(new java.awt.Color(255, 255, 255));
-    jLabel6.setText("Today US Dolar Rate");
-
-    jTextField1.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
-    jTextField1.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jTextField1ActionPerformed(evt);
-        }
-    });
-
-    jButton2.setFont(new java.awt.Font("Yu Gothic UI Light", 1, 18)); // NOI18N
-    jButton2.setText("Update");
-    jButton2.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton2ActionPerformed(evt);
-        }
-    });
-
-    javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
-    jPanel5.setLayout(jPanel5Layout);
-    jPanel5Layout.setHorizontalGroup(
-        jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel5Layout.createSequentialGroup()
-            .addContainerGap()
-            .addComponent(jLabel6)
-            .addGap(87, 87, 87)
-            .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 437, javax.swing.GroupLayout.PREFERRED_SIZE)
-            .addGap(83, 83, 83)
-            .addComponent(jButton2)
-            .addContainerGap(33, Short.MAX_VALUE))
-    );
-    jPanel5Layout.setVerticalGroup(
-        jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel5Layout.createSequentialGroup()
-            .addGap(35, 35, 35)
-            .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                .addComponent(jLabel6)
-                .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addComponent(jButton2))
-            .addContainerGap(54, Short.MAX_VALUE))
-    );
-
-    jphome.add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 90, 940, -1));
-    jphome.add(jSeparator1, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 280, 940, -1));
-
-    jTable1.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jTable1.setModel(new javax.swing.table.DefaultTableModel(
-        new Object [][] {
-            {null, null, null, null},
-            {null, null, null, null},
-            {null, null, null, null},
-            {null, null, null, null}
-        },
-        new String [] {
-            "From", "To", "Villa", "Income"
-        }
-    ) {
-        boolean[] canEdit = new boolean [] {
-            false, false, false, false
-        };
-
-        public boolean isCellEditable(int rowIndex, int columnIndex) {
-            return canEdit [columnIndex];
-        }
-    });
-    jScrollPane1.setViewportView(jTable1);
-
-    jphome.add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 350, 930, 620));
-
-    jLabel18.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 24)); // NOI18N
-    jLabel18.setText("Up Coming Booking");
-    jphome.add(jLabel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 300, -1, -1));
-
-    getContentPane().add(jphome, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 100, 1750, 990));
-
-    jpseti.setBackground(new java.awt.Color(255, 255, 255));
-    jpseti.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-    jPanel6.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel6.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Aditional Income/Expences", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
-
-    dateChooserCombo13.setCurrentView(new datechooser.view.appearance.AppearancesList("Grey",
-        new datechooser.view.appearance.ViewAppearance("custom",
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                true,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 255),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(128, 128, 128),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(0, 0, 255),
-                false,
-                true,
-                new datechooser.view.appearance.swing.LabelPainter()),
-            new datechooser.view.appearance.swing.SwingCellAppearance(new java.awt.Font("Tahoma", java.awt.Font.PLAIN, 16),
-                new java.awt.Color(0, 0, 0),
-                new java.awt.Color(255, 0, 0),
-                false,
-                false,
-                new datechooser.view.appearance.swing.ButtonPainter()),
-            (datechooser.view.BackRenderer)null,
-            false,
-            true)));
-dateChooserCombo13.setFieldFont(new java.awt.Font("Yu Gothic UI", java.awt.Font.BOLD, 20));
-
-jLabel92.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel92.setText("Amount Rs.");
-
-jLabel93.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-jLabel93.setText("Date");
-
-jTextField13.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-
-jComboBox5.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jComboBox5.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Income", "Expence" }));
-
-jButton20.setBackground(new java.awt.Color(149, 165, 166));
-jButton20.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-jButton20.setForeground(new java.awt.Color(255, 255, 255));
-jButton20.setText("Add");
-jButton20.addActionListener(new java.awt.event.ActionListener() {
-    public void actionPerformed(java.awt.event.ActionEvent evt) {
-        jButton20ActionPerformed(evt);
-    }
-    });
-
-    javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
-    jPanel6.setLayout(jPanel6Layout);
-    jPanel6Layout.setHorizontalGroup(
-        jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel6Layout.createSequentialGroup()
-            .addGap(72, 72, 72)
-            .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(jPanel6Layout.createSequentialGroup()
-                    .addComponent(jButton20)
-                    .addGap(0, 0, Short.MAX_VALUE))
-                .addGroup(jPanel6Layout.createSequentialGroup()
-                    .addGap(15, 15, 15)
-                    .addComponent(dateChooserCombo13, javax.swing.GroupLayout.PREFERRED_SIZE, 217, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGap(40, 40, 40)
-                    .addComponent(jLabel92)
-                    .addGap(18, 18, 18)
-                    .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, 244, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGap(48, 48, 48)
-                    .addComponent(jComboBox5, 0, 153, Short.MAX_VALUE)))
-            .addContainerGap())
-        .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel6Layout.createSequentialGroup()
+        javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
+        jPanel22.setLayout(jPanel22Layout);
+        jPanel22Layout.setHorizontalGroup(
+            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jSeparator3)
+            .addComponent(jScrollPane6)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel22Layout.createSequentialGroup()
                 .addGap(25, 25, 25)
-                .addComponent(jLabel93)
-                .addContainerGap(866, Short.MAX_VALUE)))
-    );
-    jPanel6Layout.setVerticalGroup(
-        jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-        .addGroup(jPanel6Layout.createSequentialGroup()
+                .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel22Layout.createSequentialGroup()
+                        .addComponent(jLabel87)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jLabel88))
+                    .addComponent(jLabel89, javax.swing.GroupLayout.DEFAULT_SIZE, 352, Short.MAX_VALUE))
+                .addGap(43, 43, 43)
+                .addComponent(jButton19, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(107, 107, 107))
+        );
+        jPanel22Layout.setVerticalGroup(
+            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel22Layout.createSequentialGroup()
+                .addGap(45, 45, 45)
+                .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel88)
+                    .addComponent(jLabel87))
+                .addGap(13, 13, 13)
+                .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addGroup(jPanel22Layout.createSequentialGroup()
+                        .addGap(24, 24, 24)
+                        .addComponent(jButton19, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(jPanel22Layout.createSequentialGroup()
+                        .addGap(18, 18, 18)
+                        .addComponent(jLabel89, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jSeparator3, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jScrollPane6, javax.swing.GroupLayout.DEFAULT_SIZE, 626, Short.MAX_VALUE))
+        );
+
+        javax.swing.GroupLayout jPanel21Layout = new javax.swing.GroupLayout(jPanel21);
+        jPanel21.setLayout(jPanel21Layout);
+        jPanel21Layout.setHorizontalGroup(
+            jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 700, Short.MAX_VALUE)
+            .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel21Layout.createSequentialGroup()
+                    .addContainerGap(22, Short.MAX_VALUE)
+                    .addComponent(jPanel22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addContainerGap(30, Short.MAX_VALUE)))
+        );
+        jPanel21Layout.setVerticalGroup(
+            jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 842, Short.MAX_VALUE)
+            .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(jPanel21Layout.createSequentialGroup()
+                    .addComponent(jPanel22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGap(0, 0, Short.MAX_VALUE)))
+        );
+
+        jprepo.add(jPanel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(1040, 170, 700, 840));
+
+        getContentPane().add(jprepo, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2040, 1090));
+
+        jpres.setBackground(new java.awt.Color(255, 255, 255));
+        jpres.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jpres1.setBackground(new java.awt.Color(255, 255, 255));
+        jpres1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel55.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jLabel55.setText("Resturant Management");
+        jpres1.add(jLabel55, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 100, 275, 56));
+
+        jPanel10.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel10.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Billing", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
+        jPanel10.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel51.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel51.setText("Date");
+        jPanel10.add(jLabel51, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 90, -1, -1));
+
+        jLabel52.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel52.setText("Invoice Number");
+        jPanel10.add(jLabel52, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 85, -1, -1));
+
+        rest_price.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_price.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_priceActionPerformed(evt);
+            }
+        });
+        jPanel10.add(rest_price, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 230, 130, -1));
+
+        jLabel53.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel53.setText("Item Code");
+        jPanel10.add(jLabel53, new org.netbeans.lib.awtextra.AbsoluteConstraints(21, 173, -1, -1));
+
+        jLabel54.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel54.setText("Item Name");
+        jPanel10.add(jLabel54, new org.netbeans.lib.awtextra.AbsoluteConstraints(21, 225, -1, -1));
+
+        rest_itemcode.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_itemcode.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_itemcodeActionPerformed(evt);
+            }
+        });
+        jPanel10.add(rest_itemcode, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 170, 310, -1));
+
+        jButton5.setBackground(new java.awt.Color(39, 174, 96));
+        jButton5.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jButton5.setText("Print Invoice");
+        jButton5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton5ActionPerformed(evt);
+            }
+        });
+        jPanel10.add(jButton5, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 590, 180, -1));
+
+        rest_add.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null, null, null},
+                {null, null, null, null, null},
+                {null, null, null, null, null},
+                {null, null, null, null, null}
+            },
+            new String [] {
+                "Date", "Item Code", "Item Name", "Unit", "Price"
+            }
+        ));
+        jScrollPane3.setViewportView(rest_add);
+
+        jPanel10.add(jScrollPane3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 340, 738, 190));
+
+        jLabel62.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel62.setText("Price Rs.");
+        jPanel10.add(jLabel62, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 230, 120, -1));
+        jPanel10.add(rest_numuni, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 170, 80, -1));
+
+        jLabel63.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel63.setText("No.Of Unit");
+        jPanel10.add(jLabel63, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 170, -1, -1));
+
+        jLabel64.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel64.setText("No.Of Unit");
+        jPanel10.add(jLabel64, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 170, -1, -1));
+
+        jLabel65.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel65.setText("No.Of Unit");
+        jPanel10.add(jLabel65, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 170, -1, -1));
+
+        rest_invonum.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_invonum.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_invonumActionPerformed(evt);
+            }
+        });
+        jPanel10.add(rest_invonum, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 90, 210, -1));
+
+        rest_itemname.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_itemname.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_itemnameActionPerformed(evt);
+            }
+        });
+        jPanel10.add(rest_itemname, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 230, 310, -1));
+
+        jButton8.setBackground(new java.awt.Color(39, 174, 96));
+        jButton8.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jButton8.setText("ADD");
+        jButton8.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton8ActionPerformed(evt);
+            }
+        });
+        jPanel10.add(jButton8, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 280, -1, -1));
+
+        jpres1.add(jPanel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 340, 760, 710));
+
+        jPanel16.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel16.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Resturant Menue", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
+
+        rest_menu.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null}
+            },
+            new String [] {
+                "Item Code", "Item Name", "Cost", "Price"
+            }
+        ));
+        jScrollPane4.setViewportView(rest_menu);
+
+        javax.swing.GroupLayout jPanel16Layout = new javax.swing.GroupLayout(jPanel16);
+        jPanel16.setLayout(jPanel16Layout);
+        jPanel16Layout.setHorizontalGroup(
+            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane4, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 688, Short.MAX_VALUE)
+        );
+        jPanel16Layout.setVerticalGroup(
+            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel16Layout.createSequentialGroup()
+                .addComponent(jScrollPane4, javax.swing.GroupLayout.DEFAULT_SIZE, 473, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jpres1.add(jPanel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1170, 190, 700, 530));
+
+        jPanel17.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel17.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Edit Menue", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
+        jPanel17.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel58.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel58.setText("Item Code");
+        jPanel17.add(jLabel58, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 50, -1, -1));
+
+        jLabel59.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel59.setText("Item Name");
+        jPanel17.add(jLabel59, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 110, -1, -1));
+
+        rest_eitemcode.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_eitemcode.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_eitemcodeActionPerformed(evt);
+            }
+        });
+        jPanel17.add(rest_eitemcode, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 60, 310, -1));
+
+        rest_eitemname.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_eitemname.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_eitemnameActionPerformed(evt);
+            }
+        });
+        jPanel17.add(rest_eitemname, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 110, 310, -1));
+
+        jLabel60.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel60.setText("Cost");
+        jPanel17.add(jLabel60, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 160, -1, -1));
+
+        rest_eprice.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_eprice.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_epriceActionPerformed(evt);
+            }
+        });
+        jPanel17.add(rest_eprice, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 210, 310, -1));
+
+        jLabel61.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
+        jLabel61.setText("Price");
+        jPanel17.add(jLabel61, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 210, -1, -1));
+
+        rest_ecost.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_ecost.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_ecostActionPerformed(evt);
+            }
+        });
+        jPanel17.add(rest_ecost, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 160, 310, -1));
+
+        jButton7.setBackground(new java.awt.Color(39, 174, 96));
+        jButton7.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jButton7.setText("Add");
+        jButton7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton7ActionPerformed(evt);
+            }
+        });
+        jPanel17.add(jButton7, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 60, 110, -1));
+
+        jButton9.setBackground(new java.awt.Color(39, 174, 96));
+        jButton9.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jButton9.setText("Delete");
+        jButton9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton9ActionPerformed(evt);
+            }
+        });
+        jPanel17.add(jButton9, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 200, 120, -1));
+
+        jButton11.setBackground(new java.awt.Color(39, 174, 96));
+        jButton11.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jButton11.setText("Update");
+        jButton11.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton11ActionPerformed(evt);
+            }
+        });
+        jPanel17.add(jButton11, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 130, -1, -1));
+
+        jpres1.add(jPanel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(1170, 750, 700, 310));
+
+        rest_bfadd.setBackground(new java.awt.Color(255, 255, 255));
+        rest_bfadd.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "BreakFast Cost", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
+
+        jLabel49.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        jLabel49.setText("Date");
+
+        jLabel50.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        jLabel50.setText("Cost  Rs.");
+
+        rest_cost.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        rest_cost.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rest_costActionPerformed(evt);
+            }
+        });
+
+        jButton6.setBackground(new java.awt.Color(39, 174, 96));
+        jButton6.setFont(new java.awt.Font("Yu Gothic UI", 1, 24)); // NOI18N
+        jButton6.setText("ADD");
+        jButton6.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton6ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout rest_bfaddLayout = new javax.swing.GroupLayout(rest_bfadd);
+        rest_bfadd.setLayout(rest_bfaddLayout);
+        rest_bfaddLayout.setHorizontalGroup(
+            rest_bfaddLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(rest_bfaddLayout.createSequentialGroup()
+                .addGap(26, 26, 26)
+                .addComponent(jLabel49)
+                .addGap(118, 118, 118)
+                .addComponent(jLabel50)
+                .addGap(29, 29, 29)
+                .addComponent(rest_cost, javax.swing.GroupLayout.PREFERRED_SIZE, 180, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(37, 37, 37)
+                .addComponent(jButton6)
+                .addContainerGap(49, Short.MAX_VALUE))
+        );
+        rest_bfaddLayout.setVerticalGroup(
+            rest_bfaddLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(rest_bfaddLayout.createSequentialGroup()
+                .addGap(24, 24, 24)
+                .addGroup(rest_bfaddLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(rest_bfaddLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                        .addComponent(jLabel50)
+                        .addComponent(rest_cost, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(jButton6))
+                    .addComponent(jLabel49))
+                .addContainerGap(44, Short.MAX_VALUE))
+        );
+
+        jpres1.add(rest_bfadd, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 190, -1, -1));
+
+        jpres.add(jpres1, new org.netbeans.lib.awtextra.AbsoluteConstraints(-10, 20, 2160, 1080));
+
+        getContentPane().add(jpres, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2050, 1080));
+
+        jphome.setBackground(new java.awt.Color(255, 255, 255));
+        jphome.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel2.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 36)); // NOI18N
+        jLabel2.setText("Dashboard");
+        jphome.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
+
+        jPanel12.setBackground(new java.awt.Color(155, 89, 182));
+
+        jPanel13.setBackground(new java.awt.Color(52, 73, 94));
+
+        jLabel25.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/GUEST.jpg"))); // NOI18N
+
+        javax.swing.GroupLayout jPanel14Layout = new javax.swing.GroupLayout(jPanel14);
+        jPanel14.setLayout(jPanel14Layout);
+        jPanel14Layout.setHorizontalGroup(
+            jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jLabel25, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+        );
+        jPanel14Layout.setVerticalGroup(
+            jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jLabel25, javax.swing.GroupLayout.DEFAULT_SIZE, 309, Short.MAX_VALUE)
+        );
+
+        jLabel35.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
+        jLabel35.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel35.setText("This Week Income");
+
+        jLabel37.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
+        jLabel37.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel37.setText("$120");
+
+        javax.swing.GroupLayout jPanel13Layout = new javax.swing.GroupLayout(jPanel13);
+        jPanel13.setLayout(jPanel13Layout);
+        jPanel13Layout.setHorizontalGroup(
+            jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jPanel14, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(jPanel13Layout.createSequentialGroup()
+                    .addGap(43, 43, 43)
+                    .addComponent(jLabel35)
+                    .addContainerGap(281, Short.MAX_VALUE)))
+            .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel13Layout.createSequentialGroup()
+                    .addContainerGap(355, Short.MAX_VALUE)
+                    .addComponent(jLabel37)
+                    .addGap(97, 97, 97)))
+        );
+        jPanel13Layout.setVerticalGroup(
+            jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel13Layout.createSequentialGroup()
+                .addComponent(jPanel14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(63, 63, 63))
+            .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel13Layout.createSequentialGroup()
+                    .addContainerGap(329, Short.MAX_VALUE)
+                    .addComponent(jLabel35)
+                    .addContainerGap()))
+            .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel13Layout.createSequentialGroup()
+                    .addContainerGap(335, Short.MAX_VALUE)
+                    .addComponent(jLabel37)
+                    .addGap(10, 10, 10)))
+        );
+
+        jLabel33.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
+        jLabel33.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel33.setText("01");
+
+        jLabel36.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
+        jLabel36.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel36.setText("Today Arival");
+
+        javax.swing.GroupLayout jPanel12Layout = new javax.swing.GroupLayout(jPanel12);
+        jPanel12.setLayout(jPanel12Layout);
+        jPanel12Layout.setHorizontalGroup(
+            jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jPanel13, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel12Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel33, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(95, 95, 95))
+            .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(jPanel12Layout.createSequentialGroup()
+                    .addGap(45, 45, 45)
+                    .addComponent(jLabel36)
+                    .addContainerGap(337, Short.MAX_VALUE)))
+        );
+        jPanel12Layout.setVerticalGroup(
+            jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel12Layout.createSequentialGroup()
+                .addComponent(jPanel13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel33)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel12Layout.createSequentialGroup()
+                    .addContainerGap(371, Short.MAX_VALUE)
+                    .addComponent(jLabel36)
+                    .addGap(26, 26, 26)))
+        );
+
+        jphome.add(jPanel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(41, 90, -1, -1));
+
+        jPanel15.setBackground(new java.awt.Color(39, 174, 96));
+
+        jPanel3.setBackground(new java.awt.Color(26, 188, 156));
+
+        jPanel4.setPreferredSize(new java.awt.Dimension(493, 303));
+
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/VIL.jpg"))); // NOI18N
+
+        javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
+        jPanel4.setLayout(jPanel4Layout);
+        jPanel4Layout.setHorizontalGroup(
+            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jLabel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+        );
+        jPanel4Layout.setVerticalGroup(
+            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jLabel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+        );
+
+        jLabel32.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
+        jLabel32.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel32.setText("This Week Income");
+
+        jLabel31.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
+        jLabel31.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel31.setText("$120");
+
+        javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
+        jPanel3.setLayout(jPanel3Layout);
+        jPanel3Layout.setHorizontalGroup(
+            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel3Layout.createSequentialGroup()
+                .addGap(34, 34, 34)
+                .addComponent(jLabel32)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel31)
+                .addGap(124, 124, 124))
+            .addComponent(jPanel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+        );
+        jPanel3Layout.setVerticalGroup(
+            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel3Layout.createSequentialGroup()
+                .addComponent(jPanel4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(18, 18, Short.MAX_VALUE)
+                .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel32)
+                    .addComponent(jLabel31))
+                .addContainerGap())
+        );
+
+        jLabel34.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
+        jLabel34.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel34.setText("Today Arival");
+
+        jLabel38.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 20)); // NOI18N
+        jLabel38.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel38.setText("01");
+
+        javax.swing.GroupLayout jPanel15Layout = new javax.swing.GroupLayout(jPanel15);
+        jPanel15.setLayout(jPanel15Layout);
+        jPanel15Layout.setHorizontalGroup(
+            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel15Layout.createSequentialGroup()
+                .addGap(35, 35, 35)
+                .addComponent(jLabel34)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel38, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(121, 121, 121))
+            .addGroup(jPanel15Layout.createSequentialGroup()
+                .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
+        );
+        jPanel15Layout.setVerticalGroup(
+            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel15Layout.createSequentialGroup()
+                .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel15Layout.createSequentialGroup()
+                        .addComponent(jLabel34)
+                        .addGap(0, 0, Short.MAX_VALUE))
+                    .addGroup(jPanel15Layout.createSequentialGroup()
+                        .addComponent(jLabel38)
+                        .addContainerGap())))
+        );
+
+        jphome.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 570, 490, 400));
+
+        jLabel4.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 18)); // NOI18N
+        jLabel4.setText("Kurulu Garden Couple Villa");
+        jphome.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 530, -1, -1));
+
+        jLabel5.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 18)); // NOI18N
+        jLabel5.setText("Kurulu Garden Guest House");
+        jphome.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 60, -1, -1));
+
+        jPanel5.setBackground(new java.awt.Color(44, 62, 80));
+        jPanel5.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
+
+        jLabel6.setFont(new java.awt.Font("Yu Gothic UI Light", 1, 20)); // NOI18N
+        jLabel6.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel6.setText("Today US Dolar Rate");
+
+        home_drate.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
+        home_drate.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                home_drateActionPerformed(evt);
+            }
+        });
+
+        jButton2.setFont(new java.awt.Font("Yu Gothic UI Light", 1, 18)); // NOI18N
+        jButton2.setText("Update");
+        jButton2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton2ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
+        jPanel5.setLayout(jPanel5Layout);
+        jPanel5Layout.setHorizontalGroup(
+            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel5Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jLabel6)
+                .addGap(87, 87, 87)
+                .addComponent(home_drate, javax.swing.GroupLayout.PREFERRED_SIZE, 437, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(83, 83, 83)
+                .addComponent(jButton2)
+                .addContainerGap(33, Short.MAX_VALUE))
+        );
+        jPanel5Layout.setVerticalGroup(
+            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel5Layout.createSequentialGroup()
+                .addGap(35, 35, 35)
+                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel6)
+                    .addComponent(home_drate, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jButton2))
+                .addContainerGap(54, Short.MAX_VALUE))
+        );
+
+        jphome.add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 90, 940, -1));
+        jphome.add(jSeparator1, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 280, 940, -1));
+
+        home_table.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        home_table.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null}
+            },
+            new String [] {
+                "From", "To", "Villa", "Income"
+            }
+        ) {
+            boolean[] canEdit = new boolean [] {
+                false, false, false, false
+            };
+
+            public boolean isCellEditable(int rowIndex, int columnIndex) {
+                return canEdit [columnIndex];
+            }
+        });
+        jScrollPane1.setViewportView(home_table);
+
+        jphome.add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 350, 930, 620));
+
+        jLabel18.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 24)); // NOI18N
+        jLabel18.setText("Up Coming Booking");
+        jphome.add(jLabel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 300, -1, -1));
+
+        getContentPane().add(jphome, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 100, 1750, 990));
+
+        jpseti.setBackground(new java.awt.Color(255, 255, 255));
+        jpseti.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jPanel6.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel6.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Aditional Income/Expences", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
+
+        jLabel92.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel92.setText("Amount Rs.");
+
+        jLabel93.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel93.setText("Date");
+
+        jTextField13.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+
+        jComboBox5.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jComboBox5.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Income", "Expence" }));
+
+        jButton20.setBackground(new java.awt.Color(149, 165, 166));
+        jButton20.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton20.setForeground(new java.awt.Color(255, 255, 255));
+        jButton20.setText("Add");
+        jButton20.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton20ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
+        jPanel6.setLayout(jPanel6Layout);
+        jPanel6Layout.setHorizontalGroup(
+            jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel6Layout.createSequentialGroup()
+                .addGap(72, 72, 72)
+                .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel6Layout.createSequentialGroup()
+                        .addComponent(jButton20)
+                        .addGap(0, 0, Short.MAX_VALUE))
+                    .addGroup(jPanel6Layout.createSequentialGroup()
+                        .addGap(272, 272, 272)
+                        .addComponent(jLabel92)
+                        .addGap(18, 18, 18)
+                        .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, 244, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(48, 48, 48)
+                        .addComponent(jComboBox5, 0, 156, Short.MAX_VALUE)))
+                .addContainerGap())
             .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                 .addGroup(jPanel6Layout.createSequentialGroup()
-                    .addGap(31, 31, 31)
-                    .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                        .addComponent(jLabel92)
-                        .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(jComboBox5, javax.swing.GroupLayout.PREFERRED_SIZE, 45, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 14, Short.MAX_VALUE))
-                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel6Layout.createSequentialGroup()
-                    .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(dateChooserCombo13, javax.swing.GroupLayout.PREFERRED_SIZE, 35, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGap(18, 18, 18)))
-            .addComponent(jButton20)
-            .addContainerGap())
-        .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGap(25, 25, 25)
+                    .addComponent(jLabel93)
+                    .addContainerGap(866, Short.MAX_VALUE)))
+        );
+        jPanel6Layout.setVerticalGroup(
+            jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel6Layout.createSequentialGroup()
-                .addGap(42, 42, 42)
-                .addComponent(jLabel93)
-                .addContainerGap(72, Short.MAX_VALUE)))
-    );
+                .addGap(31, 31, 31)
+                .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel92)
+                    .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jComboBox5, javax.swing.GroupLayout.PREFERRED_SIZE, 45, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 17, Short.MAX_VALUE)
+                .addComponent(jButton20)
+                .addContainerGap())
+            .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(jPanel6Layout.createSequentialGroup()
+                    .addGap(42, 42, 42)
+                    .addComponent(jLabel93)
+                    .addContainerGap(72, Short.MAX_VALUE)))
+        );
 
-    jpseti.add(jPanel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 130, 950, 180));
+        jpseti.add(jPanel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 130, 950, 180));
 
-    jPanel23.setBackground(new java.awt.Color(255, 255, 255));
-    jPanel23.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Regestration", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
-    jPanel23.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+        jPanel23.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel23.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Regestration", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Yu Gothic UI", 1, 24))); // NOI18N
+        jPanel23.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-    jLabel94.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel94.setText("User Name");
-    jPanel23.add(jLabel94, new org.netbeans.lib.awtextra.AbsoluteConstraints(32, 122, -1, -1));
+        jLabel94.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel94.setText("User Name");
+        jPanel23.add(jLabel94, new org.netbeans.lib.awtextra.AbsoluteConstraints(32, 122, -1, -1));
 
-    u_name.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    u_name.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            u_nameActionPerformed(evt);
-        }
-    });
-    jPanel23.add(u_name, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 107, 244, 40));
+        u_name.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        u_name.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                u_nameActionPerformed(evt);
+            }
+        });
+        jPanel23.add(u_name, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 107, 244, 40));
 
-    jLabel95.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel95.setText("Password");
-    jPanel23.add(jLabel95, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 350, -1, -1));
+        jLabel95.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel95.setText("Password");
+        jPanel23.add(jLabel95, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 350, -1, -1));
 
-    u_pw.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel23.add(u_pw, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 340, 244, 40));
+        u_pw.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel23.add(u_pw, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 340, 244, 40));
 
-    u_email.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel23.add(u_email, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 230, 244, 40));
+        u_email.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel23.add(u_email, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 230, 244, 40));
 
-    jLabel96.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel96.setText("Email ");
-    jPanel23.add(jLabel96, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 240, -1, -1));
+        jLabel96.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel96.setText("Email ");
+        jPanel23.add(jLabel96, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 240, -1, -1));
 
-    jLabel97.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel97.setText("First Name");
-    jPanel23.add(jLabel97, new org.netbeans.lib.awtextra.AbsoluteConstraints(33, 180, -1, -1));
+        jLabel97.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel97.setText("First Name");
+        jPanel23.add(jLabel97, new org.netbeans.lib.awtextra.AbsoluteConstraints(33, 180, -1, -1));
 
-    f_name.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    f_name.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            f_nameActionPerformed(evt);
-        }
-    });
-    jPanel23.add(f_name, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 165, 244, 40));
+        f_name.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        f_name.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                f_nameActionPerformed(evt);
+            }
+        });
+        jPanel23.add(f_name, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 165, 244, 40));
 
-    jLabel98.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel98.setText("Last Name");
-    jPanel23.add(jLabel98, new org.netbeans.lib.awtextra.AbsoluteConstraints(508, 180, -1, -1));
+        jLabel98.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel98.setText("Last Name");
+        jPanel23.add(jLabel98, new org.netbeans.lib.awtextra.AbsoluteConstraints(508, 180, -1, -1));
 
-    l_name.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel23.add(l_name, new org.netbeans.lib.awtextra.AbsoluteConstraints(635, 165, 244, 40));
+        l_name.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel23.add(l_name, new org.netbeans.lib.awtextra.AbsoluteConstraints(635, 165, 244, 40));
 
-    jButton21.setBackground(new java.awt.Color(243, 156, 18));
-    jButton21.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton21.setForeground(new java.awt.Color(255, 255, 255));
-    jButton21.setText("New");
-    jButton21.addMouseListener(new java.awt.event.MouseAdapter() {
-        public void mouseClicked(java.awt.event.MouseEvent evt) {
-            jButton21MouseClicked(evt);
-        }
-    });
-    jButton21.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton21ActionPerformed(evt);
-        }
-    });
-    jPanel23.add(jButton21, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 470, 100, -1));
+        jButton21.setBackground(new java.awt.Color(243, 156, 18));
+        jButton21.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton21.setForeground(new java.awt.Color(255, 255, 255));
+        jButton21.setText("New");
+        jButton21.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jButton21MouseClicked(evt);
+            }
+        });
+        jButton21.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton21ActionPerformed(evt);
+            }
+        });
+        jPanel23.add(jButton21, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 470, 100, -1));
 
-    jLabel99.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel99.setText("Phone");
-    jPanel23.add(jLabel99, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 240, -1, -1));
+        jLabel99.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel99.setText("Phone");
+        jPanel23.add(jLabel99, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 240, -1, -1));
 
-    jLabel100.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
-    jLabel100.setText("Comform ");
-    jPanel23.add(jLabel100, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 340, -1, -1));
+        jLabel100.setFont(new java.awt.Font("Tahoma", 1, 20)); // NOI18N
+        jLabel100.setText("Comform ");
+        jPanel23.add(jLabel100, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 340, -1, -1));
 
-    jPasswordField2.setText("jPasswordField1");
-    jPanel23.add(jPasswordField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 320, 240, 50));
+        jPasswordField2.setText("jPasswordField1");
+        jPanel23.add(jPasswordField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 320, 240, 50));
 
-    jButton23.setBackground(new java.awt.Color(243, 156, 18));
-    jButton23.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton23.setForeground(new java.awt.Color(255, 255, 255));
-    jButton23.setText("Check");
-    jButton23.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton23ActionPerformed(evt);
-        }
-    });
-    jPanel23.add(jButton23, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 470, -1, -1));
+        jButton23.setBackground(new java.awt.Color(243, 156, 18));
+        jButton23.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton23.setForeground(new java.awt.Color(255, 255, 255));
+        jButton23.setText("Check");
+        jButton23.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton23ActionPerformed(evt);
+            }
+        });
+        jPanel23.add(jButton23, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 470, -1, -1));
 
-    jButton24.setBackground(new java.awt.Color(243, 156, 18));
-    jButton24.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jButton24.setForeground(new java.awt.Color(255, 255, 255));
-    jButton24.setText("Update");
-    jButton24.addMouseListener(new java.awt.event.MouseAdapter() {
-        public void mouseClicked(java.awt.event.MouseEvent evt) {
-            jButton24MouseClicked(evt);
-        }
-    });
-    jButton24.addActionListener(new java.awt.event.ActionListener() {
-        public void actionPerformed(java.awt.event.ActionEvent evt) {
-            jButton24ActionPerformed(evt);
-        }
-    });
-    jPanel23.add(jButton24, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 470, -1, -1));
+        jButton24.setBackground(new java.awt.Color(243, 156, 18));
+        jButton24.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jButton24.setForeground(new java.awt.Color(255, 255, 255));
+        jButton24.setText("Update");
+        jButton24.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jButton24MouseClicked(evt);
+            }
+        });
+        jButton24.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton24ActionPerformed(evt);
+            }
+        });
+        jPanel23.add(jButton24, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 470, -1, -1));
 
-    u_phone1.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
-    jPanel23.add(u_phone1, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 230, 244, 40));
+        u_phone1.setFont(new java.awt.Font("Yu Gothic UI", 1, 18)); // NOI18N
+        jPanel23.add(u_phone1, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 230, 244, 40));
 
-    jpseti.add(jPanel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 320, 950, 630));
+        jpseti.add(jPanel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 320, 950, 630));
 
-    getContentPane().add(jpseti, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2040, 1080));
+        getContentPane().add(jpseti, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 2040, 1080));
 
-    setBounds(0, 0, 2066, 1138);
+        setBounds(0, 0, 2066, 1138);
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
@@ -2806,9 +2181,9 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
         this.dispose();
     }//GEN-LAST:event_jButton1ActionPerformed
 
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
+    private void home_drateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_home_drateActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField1ActionPerformed
+    }//GEN-LAST:event_home_drateActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
@@ -3030,45 +2405,45 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
         // TODO add your handling code here:
     }//GEN-LAST:event_btn_bo_updateActionPerformed
 
-    private void jTextField4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField4ActionPerformed
+    private void rest_priceActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_priceActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField4ActionPerformed
+    }//GEN-LAST:event_rest_priceActionPerformed
 
-    private void jTextField12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField12ActionPerformed
+    private void rest_itemcodeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_itemcodeActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField12ActionPerformed
+    }//GEN-LAST:event_rest_itemcodeActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton5ActionPerformed
 
-    private void jTextField18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField18ActionPerformed
+    private void rest_invonumActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_invonumActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField18ActionPerformed
+    }//GEN-LAST:event_rest_invonumActionPerformed
 
-    private void jTextField17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField17ActionPerformed
+    private void rest_eitemnameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_eitemnameActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField17ActionPerformed
+    }//GEN-LAST:event_rest_eitemnameActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton7ActionPerformed
 
-    private void jTextField14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField14ActionPerformed
+    private void rest_eitemcodeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_eitemcodeActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField14ActionPerformed
+    }//GEN-LAST:event_rest_eitemcodeActionPerformed
 
-    private void jTextField19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField19ActionPerformed
+    private void rest_itemnameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_itemnameActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField19ActionPerformed
+    }//GEN-LAST:event_rest_itemnameActionPerformed
 
-    private void jTextField20ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField20ActionPerformed
+    private void rest_epriceActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_epriceActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField20ActionPerformed
+    }//GEN-LAST:event_rest_epriceActionPerformed
 
-    private void jTextField21ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField21ActionPerformed
+    private void rest_ecostActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_ecostActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField21ActionPerformed
+    }//GEN-LAST:event_rest_ecostActionPerformed
 
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
         // TODO add your handling code here:
@@ -3122,9 +2497,9 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton6ActionPerformed
 
-    private void jTextField3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField3ActionPerformed
+    private void rest_costActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rest_costActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField3ActionPerformed
+    }//GEN-LAST:event_rest_costActionPerformed
 
     private void hobt7MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_hobt7MouseClicked
         // TODO add your handling code here:
@@ -3301,18 +2676,6 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
     private javax.swing.JButton btn_bo_find;
     private javax.swing.JButton btn_bo_update;
     private javax.swing.JButton btn_bo_update1;
-    private datechooser.beans.DateChooserCombo dateChooserCombo1;
-    private datechooser.beans.DateChooserCombo dateChooserCombo10;
-    private datechooser.beans.DateChooserCombo dateChooserCombo11;
-    private datechooser.beans.DateChooserCombo dateChooserCombo12;
-    private datechooser.beans.DateChooserCombo dateChooserCombo13;
-    private datechooser.beans.DateChooserCombo dateChooserCombo2;
-    private datechooser.beans.DateChooserCombo dateChooserCombo3;
-    private datechooser.beans.DateChooserCombo dateChooserCombo4;
-    private datechooser.beans.DateChooserCombo dateChooserCombo5;
-    private datechooser.beans.DateChooserCombo dateChooserCombo6;
-    private datechooser.beans.DateChooserCombo dateChooserCombo8;
-    private datechooser.beans.DateChooserCombo dateChooserCombo9;
     private javax.swing.JTextField f_name;
     private javax.swing.JPanel hobt1;
     private javax.swing.JPanel hobt2;
@@ -3321,6 +2684,8 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
     private javax.swing.JPanel hobt5;
     private javax.swing.JPanel hobt6;
     private javax.swing.JPanel hobt7;
+    private javax.swing.JTextField home_drate;
+    private javax.swing.JTable home_table;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton10;
     private javax.swing.JButton jButton11;
@@ -3475,7 +2840,6 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
     private javax.swing.JPanel jPanel6;
     private javax.swing.JPanel jPanel7;
     private javax.swing.JPanel jPanel8;
-    private javax.swing.JPanel jPanel9;
     private javax.swing.JPasswordField jPasswordField2;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
@@ -3488,26 +2852,14 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
     private javax.swing.JSeparator jSeparator3;
     private javax.swing.JSpinner jSpinner1;
     private javax.swing.JSpinner jSpinner2;
-    private javax.swing.JSpinner jSpinner3;
-    private javax.swing.JTable jTable1;
     private javax.swing.JTable jTable2;
-    private javax.swing.JTable jTable3;
-    private javax.swing.JTable jTable4;
     private javax.swing.JTable jTable5;
     private javax.swing.JTable jTable6;
-    private javax.swing.JTextField jTextField1;
     private javax.swing.JTextField jTextField10;
-    private javax.swing.JTextField jTextField12;
     private javax.swing.JTextField jTextField13;
-    private javax.swing.JTextField jTextField14;
     private javax.swing.JTextField jTextField15;
     private javax.swing.JTextField jTextField16;
-    private javax.swing.JTextField jTextField17;
-    private javax.swing.JTextField jTextField18;
-    private javax.swing.JTextField jTextField19;
     private javax.swing.JTextField jTextField2;
-    private javax.swing.JTextField jTextField20;
-    private javax.swing.JTextField jTextField21;
     private javax.swing.JTextField jTextField22;
     private javax.swing.JTextField jTextField23;
     private javax.swing.JTextField jTextField24;
@@ -3516,13 +2868,11 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
     private javax.swing.JTextField jTextField27;
     private javax.swing.JTextField jTextField28;
     private javax.swing.JTextField jTextField29;
-    private javax.swing.JTextField jTextField3;
     private javax.swing.JTextField jTextField30;
     private javax.swing.JTextField jTextField31;
     private javax.swing.JTextField jTextField32;
     private javax.swing.JTextField jTextField33;
     private javax.swing.JTextField jTextField39;
-    private javax.swing.JTextField jTextField4;
     private javax.swing.JTextField jTextField40;
     private javax.swing.JTextField jTextField41;
     private javax.swing.JTextField jTextField42;
@@ -3541,8 +2891,20 @@ jButton20.addActionListener(new java.awt.event.ActionListener() {
     private javax.swing.JPanel jpseti;
     private javax.swing.JPanel jpstaf;
     private javax.swing.JTextField l_name;
+    private javax.swing.JTable rest_add;
+    private javax.swing.JPanel rest_bfadd;
+    private javax.swing.JTextField rest_cost;
+    private javax.swing.JTextField rest_ecost;
+    private javax.swing.JTextField rest_eitemcode;
+    private javax.swing.JTextField rest_eitemname;
+    private javax.swing.JTextField rest_eprice;
+    private javax.swing.JTextField rest_invonum;
+    private javax.swing.JTextField rest_itemcode;
+    private javax.swing.JTextField rest_itemname;
+    private javax.swing.JTable rest_menu;
+    private javax.swing.JSpinner rest_numuni;
+    private javax.swing.JTextField rest_price;
     private javax.swing.JTextField se_Air_bno;
-    private datechooser.beans.DateChooserCombo se_air_bdate;
     private javax.swing.JTextField u_email;
     private javax.swing.JTextField u_name;
     private javax.swing.JTextField u_phone1;
